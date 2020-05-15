@@ -1,7 +1,7 @@
 package planningEntry;
 
-import resource.Train;
+import resource.Carriage;
 
-public interface TrainplanningEntry extends MultipleLocationEntry, MultipleSortedResourceEntry<Train>, BlockableEntry {
+public interface TrainplanningEntry extends MultipleLocationEntry, MultipleSortedResourceEntry<Carriage>, BlockableEntry {
 
 }

@@ -1,0 +1,338 @@
+Class:2020-03-02,算法设计与分析
+{
+2-13
+ClassRoom:格物201
+DepatureTime:2020-03-02 08:00
+ArrivalTime:2020-03-02 09:45
+Teacher:001
+{
+Name:王炜
+Sex:男
+Title:算法教师
+}
+}
+Class:2020-02-24,走进北美文化
+{
+1-16
+ClassRoom:正心803
+DepatureTime:2020-02-24 10:00
+ArrivalTime:2020-02-24 11:45
+Teacher:002
+{
+Name:王晶
+Sex:女
+Title:英语教师
+}
+}
+Class:2020-03-30,马克思主义基本原理概论
+{
+5-16
+ClassRoom:正心12
+DepatureTime:2020-02-24 13:45
+ArrivalTime:2020-02-24 15:30
+Teacher:003
+{
+Name:杨婉琳
+Sex:女
+Title:马原教师
+}
+}
+Class:2020-02-24,近世代数
+{
+1-8
+ClassRoom:正心23
+DepatureTime:2020-02-24 15:45
+ArrivalTime:2020-02-24 17:30
+Teacher:004
+{
+Name:李涛
+Sex:男
+Title:代数教师
+}
+}
+Class:2020-04-20,计算方法
+{
+9-13
+ClassRoom:正心24
+DepatureTime:2020-04-20 18:30
+ArrivalTime:2020-04-20 22:00
+Teacher:005
+{
+Name:陈延梅
+Sex:女
+Title:计算方法教师
+}
+}
+Class:2020-03-31,计算方法
+{
+6-8
+ClassRoom:正心24
+DepatureTime:2020-03-31 08:00
+ArrivalTime:2020-03-31 09:45
+Teacher:005
+{
+Name:陈延梅
+Sex:女
+Title:计算方法教师
+}
+}
+Class:2020-04-28,形式语言与自动机
+{
+10-17
+ClassRoom:正心22
+DepatureTime:2020-04-28 10:00
+ArrivalTime:2020-04-28 11:45
+Teacher:006
+{
+Name:孙大烈
+Sex:男
+Title:自动机教师
+}
+}
+Class:2020-02-25,软件构造
+{
+1-6
+ClassRoom:正心13
+DepatureTime:2020-02-25 13:45
+ArrivalTime:2020-02-25 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-04-14,软件构造
+{
+8-10
+ClassRoom:正心13
+DepatureTime:2020-04-14 13:45
+ArrivalTime:2020-04-14 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-05-12,软件构造
+{
+12-14
+ClassRoom:正心13
+DepatureTime:2020-05-12 13:45
+ArrivalTime:2020-05-12 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-03-04,算法设计与分析
+{
+2-13
+ClassRoom:格物201
+DepatureTime:2020-03-04 08:00
+ArrivalTime:2020-03-04 09:45
+Teacher:001
+{
+Name:王炜
+Sex:男
+Title:算法教师
+}
+}
+Class:2020-02-26,游泳
+{
+1-16
+ClassRoom:格物201
+DepatureTime:2020-02-26 10:00
+ArrivalTime:2020-02-26 11:45
+Teacher:008
+{
+Name:赵菁
+Sex:女
+Title:体育教师
+}
+}
+Class:2020-04-01,计算方法实验
+{
+6-8
+ClassRoom:正心24
+DepatureTime:2020-04-01 13:45
+ArrivalTime:2020-04-01 15:30
+Teacher:005
+{
+Name:陈延梅
+Sex:女
+Title:计算方法教师
+}
+}
+Class:2020-04-23,马克思主义基本原理概论实验
+{
+9-9
+ClassRoom:正心803
+DepatureTime:2020-04-23 08:00
+ArrivalTime:2020-04-23 09:45
+Teacher:003
+{
+Name:杨婉琳
+Sex:女
+Title:马原教师
+}
+}
+Class:2020-02-27,软件构造实验
+{
+1-6
+ClassRoom:格物213
+DepatureTime:2020-02-27 13:45
+ArrivalTime:2020-02-27 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-04-16,软件构造实验
+{
+8-15
+ClassRoom:格物213
+DepatureTime:2020-04-16 13:45
+ArrivalTime:2020-04-16 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-04-01,马克思主义基本原理概论
+{
+5-16
+ClassRoom:正心12
+DepatureTime:2020-04-01 15:45
+ArrivalTime:2020-04-01 17:30
+Teacher:003
+{
+Name:杨婉琳
+Sex:女
+Title:马原教师
+}
+}
+Class:2020-04-22,计算方法
+{
+9-13
+ClassRoom:正心24
+DepatureTime:2020-04-22 18:30
+ArrivalTime:2020-04-22 22:00
+Teacher:005
+{
+Name:陈延梅
+Sex:女
+Title:计算方法教师
+}
+}
+Class:2020-05-01,形式语言与自动机
+{
+10-17
+ClassRoom:正心22
+DepatureTime:2020-05-01 08:00
+ArrivalTime:2020-05-01 09:45
+Teacher:006
+{
+Name:孙大烈
+Sex:男
+Title:自动机教师
+}
+}
+Class:2020-04-02,计算方法
+{
+6-8
+ClassRoom:正心24
+DepatureTime:2020-04-02 10:00
+ArrivalTime:2020-04-02 11:45
+Teacher:005
+{
+Name:陈延梅
+Sex:女
+Title:计算方法教师
+}
+}
+Class:2020-04-20,信息安全概论
+{
+9-16
+ClassRoom:正心34
+DepatureTime:2020-04-20 15:45
+ArrivalTime:2020-04-20 17:30
+Teacher:009
+{
+Name:王彦
+Sex:男
+Title:信息安全教师
+}
+}
+Class:2020-04-24,信息安全概论
+{
+7-16
+ClassRoom:正心23
+DepatureTime:2020-04-24 10:00
+ArrivalTime:2020-04-24 11:45
+Teacher:009
+{
+Name:王彦
+Sex:男
+Title:信息安全教师
+}
+}
+Class:2020-02-28,软件构造
+{
+1-8
+ClassRoom:正心13
+DepatureTime:2020-02-28 13:45
+ArrivalTime:2020-02-28 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-05-01,软件构造
+{
+10-14
+ClassRoom:正心13
+DepatureTime:2020-05-01 13:45
+ArrivalTime:2020-05-01 15:30
+Teacher:007
+{
+Name:刘铭
+Sex:男
+Title:软件构造教师
+}
+}
+Class:2020-02-28,近世代数
+{
+1-8
+ClassRoom:正心23
+DepatureTime:2020-02-28 15:45
+ArrivalTime:2020-02-28 17:30
+Teacher:004
+{
+Name:李涛
+Sex:男
+Title:代数教师
+}
+}
+Class:2020-03-14,中国传统艺术
+{
+3-9
+ClassRoom:正心11
+DepatureTime:2020-03-14 13:45
+ArrivalTime:2020-03-14 17:30
+Teacher:004
+{
+Name:胡修瑞
+Sex:男
+Title:艺术教师
+}
+}

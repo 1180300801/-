@@ -16,6 +16,7 @@ public class Timeslot {
     
     //AF:表示一个带有起始时间和结束时间的timeslot
     //RI:起始时间和结束时间符合 yyyy-MM-dd HH:mm的语法规则
+   //Safety from rep exposure:所有属性均为私有
 
     //checkRep
     /**
@@ -50,6 +51,37 @@ public class Timeslot {
 			this.start = start;
 			this.end = end;
 		}		
+	}
+	
+	/**
+	 * 计算时间差,只看年月日，差360为一年，差30为1月，差1为一天
+	 * @param timeslot
+	 * @return
+	 */
+	public int timeSub() {
+		String[] s = start.split(" ");
+		String[] s1 = s[0].split("-");
+		String[] str = end.split(" ");
+		String[] str1 = str[0].split("-");
+		int subResult = 360*(Integer.parseInt(str1[0])-Integer.parseInt(s1[0]));		
+		subResult += 30*(Integer.parseInt(str1[1])-Integer.parseInt(s1[1]));	
+		subResult += Integer.parseInt(str1[2])-Integer.parseInt(s1[2]);	
+		return subResult;
+	}
+	
+	/**
+	 * 计算时间差,只看时分，差60为一小时，差1为1分钟
+	 * @param timeslot
+	 * @return
+	 */
+	public int timeSubHourAndMin() {
+		String[] s = start.split(" ");
+		String[] s1 = s[1].split(":");
+		String[] str = end.split(" ");
+		String[] str1 = str[1].split(":");
+		int subResult = 60*(Integer.parseInt(str1[0])-Integer.parseInt(s1[0]));		
+		subResult += (Integer.parseInt(str1[1])-Integer.parseInt(s1[1]));	
+		return subResult;
 	}
 	
 	public String getStartTime() {

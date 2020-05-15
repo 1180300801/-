@@ -1,19 +1,21 @@
 package planningEntry;
 
-import entryState.EntryState;
+import java.util.List;
+
+import entryState.Context;
+import entryState.StateWaiting;
 import timeslot.Timeslot;
 
-public class CommonPlanningEntry {
+public class CommonPlanningEntry implements PlanningEntry {
 
-	EntryState currentState;
-	
+	private Context currentState = new Context(StateWaiting.instance);
 	private Timeslot startAndEndTime;//开始时间
 	//AF:代表一个计划项的起始时间
 	//RI:起始时间和结束时间符合 yyyy-MM-dd HH:mm的语法规则
+	//Safety from rep exposure:所有属性均为私有
 	
 	public CommonPlanningEntry(Timeslot startAndEndTime) {
-		currentState = EntryState.WAITING;
-		this.startAndEndTime = startAndEndTime;
+		setStartAndEndTime(startAndEndTime);
 	}
 
 	/**
@@ -25,44 +27,79 @@ public class CommonPlanningEntry {
 	}
 
 	/**
-	 * 启动
-	 * @throws Exception
+	 * 状态转换
+	 * @param c 转换参数
+	 * @return 转换成功返回true
 	 */
-	public void Start() throws Exception {
-		if(currentState == EntryState.ALLOCATED)
-		    currentState = EntryState.RUNNING;
-		else
-			throw new Exception("未分配资源！！");
+	public boolean setCurrentState(String c) {
+		currentState.move(c);
+		return true;
 	}
 	
-	/**
-	 * 结束
-	 * @throws Exception
-	 */
-	public void End() throws Exception {
-		if(currentState == EntryState.RUNNING)
-		    currentState = EntryState.ENDED;
+	@Override
+	public boolean Start() {
+		if(currentState.getState().toString().equals("Allocated")) {
+			currentState.move("r");
+			return true;
+		}
+		    
 		else
-			throw new Exception("未启动！！");
+			System.out.println("未分配资源！！");
+		return false;
 	}
 	
-	/**
-	 * 取消
-	 * @throws Exception
-	 */
-	public void Cancell() throws Exception {
-		if(currentState == EntryState.WAITING||currentState == EntryState.ALLOCATED)
-		    currentState = EntryState.CANCELLED;
+	@Override
+	public boolean End() {
+		if(currentState.getState().toString().equals("Running")) {
+			currentState.move("e");
+			return true;
+		}
+		    
 		else
-			throw new Exception("当前状态不支持取消！！");
+			System.out.println("未启动！！");
+		return false;
 	}
 	
-	/**
-	 * 返回当前状态
-	 * @return
-	 */
-	public EntryState getState() {
-		return currentState;
+	@Override
+	public boolean Cancell() {
+        String s = currentState.getState().toString();
+		if(s.equals("Waiting")||s.equals("Allocated")) {
+			currentState.move("c");
+			return true;
+		}
+			
+		else
+			System.out.println("当前状态不支持取消！！");
+		return false;
+	}
+	
+	@Override
+	public String getState() {
+		return currentState.getState().toString();
+	}
+
+	@Override
+	public void setStartAndEndTime(Timeslot startAndEndTime) {
+		// TODO Auto-generated method stub
+		this.startAndEndTime = startAndEndTime;
+	}
+
+	@Override
+	public String getLocation() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<String> getResource() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getEntryName() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 	
 }

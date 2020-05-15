@@ -5,5 +5,9 @@ import location.Location;
 
 public interface MultipleLocationEntry {
 
-	void setLocations(List<Location> locations);
+	/**
+	 * 设置多个位置
+	 * @param locations 位置清单
+	 */
+	void setLocations(List<? extends Location> locations);
 }

@@ -1,0 +1,36 @@
+Class:2020-03-02,算法设计与分析
+{
+ClassRoom:格物201
+DepatureTime:2020-03-02 08:00
+ArrivalTime:2020-03-02 09:45
+Teacher:001
+{
+Name:王炜
+Sex:男
+Title:算法教师
+}
+}
+Class:2020-03-02,走进北美文化
+{
+ClassRoom:格物201
+DepatureTime:2020-03-02 09:00
+ArrivalTime:2020-03-02 10:45
+Teacher:002
+{
+Name:王晶
+Sex:女
+Title:英语教师
+}
+}
+Class:2020-03-16,算法设计与分析
+{
+ClassRoom:格物201
+DepatureTime:2020-03-16 08:00
+ArrivalTime:2020-03-16 09:45
+Teacher:001
+{
+Name:王炜
+Sex:男
+Title:算法教师
+}
+}

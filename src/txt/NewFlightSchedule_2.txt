@@ -1,0 +1,7930 @@
+Flight:2020-05-03,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-03 20:48
+ArrivalTime:2020-05-04 01:16
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-18,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-18 20:48
+ArrivalTime:2020-05-18 01:16
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-08,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-08 20:48
+ArrivalTime:2020-05-09 01:16
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-23,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-23 20:48
+ArrivalTime:2020-05-23 01:16
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-11,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-11 20:48
+ArrivalTime:2020-05-12 01:16
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-26,AA0374
+{
+DepartureAirport:Nanning
+ArrivalAirport:Urumuqi
+DepatureTime:2020-05-26 20:48
+ArrivalTime:2020-05-26 01:16
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-01,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-01 00:04
+ArrivalTime:2020-05-01 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-16,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-16 00:04
+ArrivalTime:2020-05-16 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-02,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-02 00:04
+ArrivalTime:2020-05-02 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-17,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-17 00:04
+ArrivalTime:2020-05-17 03:51
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-03,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-03 00:04
+ArrivalTime:2020-05-03 03:51
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-18,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-18 00:04
+ArrivalTime:2020-05-18 03:51
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-05,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-05 00:04
+ArrivalTime:2020-05-05 03:51
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-20,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-20 00:04
+ArrivalTime:2020-05-20 03:51
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-06,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-06 00:04
+ArrivalTime:2020-05-06 03:51
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-21,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-21 00:04
+ArrivalTime:2020-05-21 03:51
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-07,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-07 00:04
+ArrivalTime:2020-05-07 03:51
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-22,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-22 00:04
+ArrivalTime:2020-05-22 03:51
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-08,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-08 00:04
+ArrivalTime:2020-05-08 03:51
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-23,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-23 00:04
+ArrivalTime:2020-05-23 03:51
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-09,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-09 00:04
+ArrivalTime:2020-05-09 03:51
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-24,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-24 00:04
+ArrivalTime:2020-05-24 03:51
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-10,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-10 00:04
+ArrivalTime:2020-05-10 03:51
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-25,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-25 00:04
+ArrivalTime:2020-05-25 03:51
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-11,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-11 00:04
+ArrivalTime:2020-05-11 03:51
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-26,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-26 00:04
+ArrivalTime:2020-05-26 03:51
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-13,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-13 00:04
+ArrivalTime:2020-05-13 03:51
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-28,AA0644
+{
+DepartureAirport:Jinan
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-28 00:04
+ArrivalTime:2020-05-28 03:51
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-15,AA1512
+{
+DepartureAirport:Jinan
+ArrivalAirport:Weihai
+DepatureTime:2020-05-15 10:30
+ArrivalTime:2020-05-15 12:05
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-30,AA1512
+{
+DepartureAirport:Jinan
+ArrivalAirport:Weihai
+DepatureTime:2020-05-30 10:30
+ArrivalTime:2020-05-30 12:05
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-09,AA754
+{
+DepartureAirport:Urumuqi
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-09 01:59
+ArrivalTime:2020-05-09 05:15
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-24,AA754
+{
+DepartureAirport:Urumuqi
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-24 01:59
+ArrivalTime:2020-05-24 05:15
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-02,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-02 01:50
+ArrivalTime:2020-05-02 04:12
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-17,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-17 01:50
+ArrivalTime:2020-05-17 04:12
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-03,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-03 01:50
+ArrivalTime:2020-05-03 04:12
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-18,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-18 01:50
+ArrivalTime:2020-05-18 04:12
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-05,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-05 01:50
+ArrivalTime:2020-05-05 04:12
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-20,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-20 01:50
+ArrivalTime:2020-05-20 04:12
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-07,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-07 01:50
+ArrivalTime:2020-05-07 04:12
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-22,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-22 01:50
+ArrivalTime:2020-05-22 04:12
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-08,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-08 01:50
+ArrivalTime:2020-05-08 04:12
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-23,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-23 01:50
+ArrivalTime:2020-05-23 04:12
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-09,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-09 01:50
+ArrivalTime:2020-05-09 04:12
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-24,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-24 01:50
+ArrivalTime:2020-05-24 04:12
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-10,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-10 01:50
+ArrivalTime:2020-05-10 04:12
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-25,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-25 01:50
+ArrivalTime:2020-05-25 04:12
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-11,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-11 01:50
+ArrivalTime:2020-05-11 04:12
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-26,CA04
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Xian
+DepatureTime:2020-05-26 01:50
+ArrivalTime:2020-05-26 04:12
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-11,CA0420
+{
+DepartureAirport:Macau
+ArrivalAirport:Xining
+DepatureTime:2020-05-11 11:50
+ArrivalTime:2020-05-11 12:59
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-26,CA0420
+{
+DepartureAirport:Macau
+ArrivalAirport:Xining
+DepatureTime:2020-05-26 11:50
+ArrivalTime:2020-05-26 12:59
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-14,CA0420
+{
+DepartureAirport:Macau
+ArrivalAirport:Xining
+DepatureTime:2020-05-14 11:50
+ArrivalTime:2020-05-14 12:59
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-29,CA0420
+{
+DepartureAirport:Macau
+ArrivalAirport:Xining
+DepatureTime:2020-05-29 11:50
+ArrivalTime:2020-05-29 12:59
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-01,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-01 03:25
+ArrivalTime:2020-05-01 09:15
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-16,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-16 03:25
+ArrivalTime:2020-05-16 09:15
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-02,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-02 03:25
+ArrivalTime:2020-05-02 09:15
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-17,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-17 03:25
+ArrivalTime:2020-05-17 09:15
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-03,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-03 03:25
+ArrivalTime:2020-05-03 09:15
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-18,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-18 03:25
+ArrivalTime:2020-05-18 09:15
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-04,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-04 03:25
+ArrivalTime:2020-05-04 09:15
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-19,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-19 03:25
+ArrivalTime:2020-05-19 09:15
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-05,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-05 03:25
+ArrivalTime:2020-05-05 09:15
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-20,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-20 03:25
+ArrivalTime:2020-05-20 09:15
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-06,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-06 03:25
+ArrivalTime:2020-05-06 09:15
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-21,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-21 03:25
+ArrivalTime:2020-05-21 09:15
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-07,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-07 03:25
+ArrivalTime:2020-05-07 09:15
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-22,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-22 03:25
+ArrivalTime:2020-05-22 09:15
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-08,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-08 03:25
+ArrivalTime:2020-05-08 09:15
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-23,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-23 03:25
+ArrivalTime:2020-05-23 09:15
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-09,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-09 03:25
+ArrivalTime:2020-05-09 09:15
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-24,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-24 03:25
+ArrivalTime:2020-05-24 09:15
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-10,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-10 03:25
+ArrivalTime:2020-05-10 09:15
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-25,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-25 03:25
+ArrivalTime:2020-05-25 09:15
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-11,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-11 03:25
+ArrivalTime:2020-05-11 09:15
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-26,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-26 03:25
+ArrivalTime:2020-05-26 09:15
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-12,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-12 03:25
+ArrivalTime:2020-05-12 09:15
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-27,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-27 03:25
+ArrivalTime:2020-05-27 09:15
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-13,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-13 03:25
+ArrivalTime:2020-05-13 09:15
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-28,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-28 03:25
+ArrivalTime:2020-05-28 09:15
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-14,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-14 03:25
+ArrivalTime:2020-05-14 09:15
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-29,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-29 03:25
+ArrivalTime:2020-05-29 09:15
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-15,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-15 03:25
+ArrivalTime:2020-05-15 09:15
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-30,CX1909
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Tianjin
+DepatureTime:2020-05-30 03:25
+ArrivalTime:2020-05-30 09:15
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-03,CX3083
+{
+DepartureAirport:Haikou
+ArrivalAirport:Ningbo
+DepatureTime:2020-05-03 04:00
+ArrivalTime:2020-05-03 08:50
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-18,CX3083
+{
+DepartureAirport:Haikou
+ArrivalAirport:Ningbo
+DepatureTime:2020-05-18 04:00
+ArrivalTime:2020-05-18 08:50
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-06,CX3083
+{
+DepartureAirport:Haikou
+ArrivalAirport:Ningbo
+DepatureTime:2020-05-06 04:00
+ArrivalTime:2020-05-06 08:50
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-21,CX3083
+{
+DepartureAirport:Haikou
+ArrivalAirport:Ningbo
+DepatureTime:2020-05-21 04:00
+ArrivalTime:2020-05-21 08:50
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-01,CZ276
+{
+DepartureAirport:Guiyang
+ArrivalAirport:Xian
+DepatureTime:2020-05-01 18:26
+ArrivalTime:2020-05-01 22:03
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-16,CZ276
+{
+DepartureAirport:Guiyang
+ArrivalAirport:Xian
+DepatureTime:2020-05-16 18:26
+ArrivalTime:2020-05-16 22:03
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-13,CZ276
+{
+DepartureAirport:Guiyang
+ArrivalAirport:Xian
+DepatureTime:2020-05-13 18:26
+ArrivalTime:2020-05-13 22:03
+Plane:N6723
+{
+Type:B747
+Seats:450
+Age:6.9
+}
+}
+Flight:2020-05-28,CZ276
+{
+DepartureAirport:Guiyang
+ArrivalAirport:Xian
+DepatureTime:2020-05-28 18:26
+ArrivalTime:2020-05-28 22:03
+Plane:N6723
+{
+Type:B747
+Seats:450
+Age:6.9
+}
+}
+Flight:2020-05-01,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-01 05:55
+ArrivalTime:2020-05-01 07:18
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-16,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-16 05:55
+ArrivalTime:2020-05-16 07:18
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-02,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-02 05:55
+ArrivalTime:2020-05-02 07:18
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-17,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-17 05:55
+ArrivalTime:2020-05-17 07:18
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-03,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-03 05:55
+ArrivalTime:2020-05-03 07:18
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-18,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-18 05:55
+ArrivalTime:2020-05-18 07:18
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-04,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-04 05:55
+ArrivalTime:2020-05-04 07:18
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-19,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-19 05:55
+ArrivalTime:2020-05-19 07:18
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-05,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-05 05:55
+ArrivalTime:2020-05-05 07:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-20,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-20 05:55
+ArrivalTime:2020-05-20 07:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-06,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-06 05:55
+ArrivalTime:2020-05-06 07:18
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-21,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-21 05:55
+ArrivalTime:2020-05-21 07:18
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-07,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-07 05:55
+ArrivalTime:2020-05-07 07:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-22,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-22 05:55
+ArrivalTime:2020-05-22 07:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-08,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-08 05:55
+ArrivalTime:2020-05-08 07:18
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-23,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-23 05:55
+ArrivalTime:2020-05-23 07:18
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-09,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-09 05:55
+ArrivalTime:2020-05-09 07:18
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-24,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-24 05:55
+ArrivalTime:2020-05-24 07:18
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-11,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-11 05:55
+ArrivalTime:2020-05-11 07:18
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-26,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-26 05:55
+ArrivalTime:2020-05-26 07:18
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-12,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-12 05:55
+ArrivalTime:2020-05-12 07:18
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-27,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-27 05:55
+ArrivalTime:2020-05-27 07:18
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-13,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-13 05:55
+ArrivalTime:2020-05-13 07:18
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-28,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-28 05:55
+ArrivalTime:2020-05-28 07:18
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-14,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-14 05:55
+ArrivalTime:2020-05-14 07:18
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-29,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-29 05:55
+ArrivalTime:2020-05-29 07:18
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-15,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-15 05:55
+ArrivalTime:2020-05-15 07:18
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-30,CZ29
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Hefei
+DepatureTime:2020-05-30 05:55
+ArrivalTime:2020-05-30 07:18
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-02,CZ6145
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-02 06:56
+ArrivalTime:2020-05-02 12:31
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-17,CZ6145
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-17 06:56
+ArrivalTime:2020-05-17 12:31
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-03,CZ6145
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-03 06:56
+ArrivalTime:2020-05-03 12:31
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-18,CZ6145
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-18 06:56
+ArrivalTime:2020-05-18 12:31
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-09,CZ907
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-09 18:52
+ArrivalTime:2020-05-09 22:30
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-24,CZ907
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-24 18:52
+ArrivalTime:2020-05-24 22:30
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-01,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-01 08:11
+ArrivalTime:2020-05-01 11:16
+Plane:N9820
+{
+Type:A319
+Seats:140
+Age:25.5
+}
+}
+Flight:2020-05-16,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-16 08:11
+ArrivalTime:2020-05-16 11:16
+Plane:N9820
+{
+Type:A319
+Seats:140
+Age:25.5
+}
+}
+Flight:2020-05-03,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-03 08:11
+ArrivalTime:2020-05-03 11:16
+Plane:B3196
+{
+Type:B747
+Seats:450
+Age:19.3
+}
+}
+Flight:2020-05-18,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-18 08:11
+ArrivalTime:2020-05-18 11:16
+Plane:B3196
+{
+Type:B747
+Seats:450
+Age:19.3
+}
+}
+Flight:2020-05-06,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-06 08:11
+ArrivalTime:2020-05-06 11:16
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-21,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-21 08:11
+ArrivalTime:2020-05-21 11:16
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-07,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-07 08:11
+ArrivalTime:2020-05-07 11:16
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-22,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-22 08:11
+ArrivalTime:2020-05-22 11:16
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-08,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-08 08:11
+ArrivalTime:2020-05-08 11:16
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-23,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-23 08:11
+ArrivalTime:2020-05-23 11:16
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-09,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-09 08:11
+ArrivalTime:2020-05-09 11:16
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-24,FM7079
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Nanning
+DepatureTime:2020-05-24 08:11
+ArrivalTime:2020-05-24 11:16
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-06,FM875
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Hefei
+DepatureTime:2020-05-06 06:05
+ArrivalTime:2020-05-06 09:01
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-21,FM875
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Hefei
+DepatureTime:2020-05-21 06:05
+ArrivalTime:2020-05-21 09:01
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-03,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-03 08:12
+ArrivalTime:2020-05-03 10:15
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-18,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-18 08:12
+ArrivalTime:2020-05-18 10:15
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-05,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-05 08:12
+ArrivalTime:2020-05-05 10:15
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-20,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-20 08:12
+ArrivalTime:2020-05-20 10:15
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-06,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-06 08:12
+ArrivalTime:2020-05-06 10:15
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-21,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-21 08:12
+ArrivalTime:2020-05-21 10:15
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-07,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-07 08:12
+ArrivalTime:2020-05-07 10:15
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-22,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-22 08:12
+ArrivalTime:2020-05-22 10:15
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-09,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-09 08:12
+ArrivalTime:2020-05-09 10:15
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-24,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-24 08:12
+ArrivalTime:2020-05-24 10:15
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-12,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-12 08:12
+ArrivalTime:2020-05-12 10:15
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-27,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-27 08:12
+ArrivalTime:2020-05-27 10:15
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-13,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-13 08:12
+ArrivalTime:2020-05-13 10:15
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-28,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-28 08:12
+ArrivalTime:2020-05-28 10:15
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-14,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-14 08:12
+ArrivalTime:2020-05-14 10:15
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-29,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-29 08:12
+ArrivalTime:2020-05-29 10:15
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-15,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-15 08:12
+ArrivalTime:2020-05-15 10:15
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-30,GS28
+{
+DepartureAirport:Xiamen
+ArrivalAirport:Haikou
+DepatureTime:2020-05-30 08:12
+ArrivalTime:2020-05-30 10:15
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-01,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-01 07:08
+ArrivalTime:2020-05-01 09:26
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-16,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-16 07:08
+ArrivalTime:2020-05-16 09:26
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-04,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-04 07:08
+ArrivalTime:2020-05-04 09:26
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-19,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-19 07:08
+ArrivalTime:2020-05-19 09:26
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-05,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-05 07:08
+ArrivalTime:2020-05-05 09:26
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-20,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-20 07:08
+ArrivalTime:2020-05-20 09:26
+Plane:N9102
+{
+Type:A350
+Seats:286
+Age:19.9
+}
+}
+Flight:2020-05-07,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-07 07:08
+ArrivalTime:2020-05-07 09:26
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-22,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-22 07:08
+ArrivalTime:2020-05-22 09:26
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-08,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-08 07:08
+ArrivalTime:2020-05-08 09:26
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-23,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-23 07:08
+ArrivalTime:2020-05-23 09:26
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-11,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-11 07:08
+ArrivalTime:2020-05-11 09:26
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-26,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-26 07:08
+ArrivalTime:2020-05-26 09:26
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-12,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-12 07:08
+ArrivalTime:2020-05-12 09:26
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-27,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-27 07:08
+ArrivalTime:2020-05-27 09:26
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-14,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-14 07:08
+ArrivalTime:2020-05-14 09:26
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-29,GS3664
+{
+DepartureAirport:Changsha
+ArrivalAirport:Yantai
+DepatureTime:2020-05-29 07:08
+ArrivalTime:2020-05-29 09:26
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-01,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-01 08:51
+ArrivalTime:2020-05-01 12:41
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-16,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-16 08:51
+ArrivalTime:2020-05-16 12:41
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-02,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-02 08:51
+ArrivalTime:2020-05-02 12:41
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-17,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-17 08:51
+ArrivalTime:2020-05-17 12:41
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-04,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-04 08:51
+ArrivalTime:2020-05-04 12:41
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-19,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-19 08:51
+ArrivalTime:2020-05-19 12:41
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-05,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-05 08:51
+ArrivalTime:2020-05-05 12:41
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-20,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-20 08:51
+ArrivalTime:2020-05-20 12:41
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-06,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-06 08:51
+ArrivalTime:2020-05-06 12:41
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-21,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-21 08:51
+ArrivalTime:2020-05-21 12:41
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-07,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-07 08:51
+ArrivalTime:2020-05-07 12:41
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-22,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-22 08:51
+ArrivalTime:2020-05-22 12:41
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-09,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-09 08:51
+ArrivalTime:2020-05-09 12:41
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-24,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-24 08:51
+ArrivalTime:2020-05-24 12:41
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-10,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-10 08:51
+ArrivalTime:2020-05-10 12:41
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-25,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-25 08:51
+ArrivalTime:2020-05-25 12:41
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-11,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-11 08:51
+ArrivalTime:2020-05-11 12:41
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-26,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-26 08:51
+ArrivalTime:2020-05-26 12:41
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-12,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-12 08:51
+ArrivalTime:2020-05-12 12:41
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-27,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-27 08:51
+ArrivalTime:2020-05-27 12:41
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-13,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-13 08:51
+ArrivalTime:2020-05-13 12:41
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-28,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-28 08:51
+ArrivalTime:2020-05-28 12:41
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-14,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-14 08:51
+ArrivalTime:2020-05-14 12:41
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-29,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-29 08:51
+ArrivalTime:2020-05-29 12:41
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-15,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-15 08:51
+ArrivalTime:2020-05-15 12:41
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-30,GS4209
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Shenyang
+DepatureTime:2020-05-30 08:51
+ArrivalTime:2020-05-30 12:41
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-13,HU4186
+{
+DepartureAirport:Taipei
+ArrivalAirport:Weihai
+DepatureTime:2020-05-13 15:53
+ArrivalTime:2020-05-13 17:55
+Plane:B0458
+{
+Type:C919
+Seats:132
+Age:15.5
+}
+}
+Flight:2020-05-28,HU4186
+{
+DepartureAirport:Taipei
+ArrivalAirport:Weihai
+DepatureTime:2020-05-28 15:53
+ArrivalTime:2020-05-28 17:55
+Plane:B0458
+{
+Type:C919
+Seats:132
+Age:15.5
+}
+}
+Flight:2020-05-02,HU908
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Haikou
+DepatureTime:2020-05-02 22:51
+ArrivalTime:2020-05-03 01:07
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-17,HU908
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Haikou
+DepatureTime:2020-05-17 22:51
+ArrivalTime:2020-05-17 01:07
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-14,HU908
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Haikou
+DepatureTime:2020-05-14 22:51
+ArrivalTime:2020-05-15 01:07
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-29,HU908
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Haikou
+DepatureTime:2020-05-29 22:51
+ArrivalTime:2020-05-29 01:07
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-02,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-02 23:57
+ArrivalTime:2020-05-03 01:26
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-17,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-17 23:57
+ArrivalTime:2020-05-17 01:26
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-07,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-07 23:57
+ArrivalTime:2020-05-08 01:26
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-22,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-22 23:57
+ArrivalTime:2020-05-22 01:26
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-10,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-10 23:57
+ArrivalTime:2020-05-11 01:26
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-25,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-25 23:57
+ArrivalTime:2020-05-25 01:26
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-15,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-15 23:57
+ArrivalTime:2020-05-16 01:26
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-30,HU94
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-30 23:57
+ArrivalTime:2020-05-30 01:26
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-01,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-01 02:39
+ArrivalTime:2020-05-01 08:18
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-16,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-16 02:39
+ArrivalTime:2020-05-16 08:18
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-02,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-02 02:39
+ArrivalTime:2020-05-02 08:18
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-17,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-17 02:39
+ArrivalTime:2020-05-17 08:18
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-04,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-04 02:39
+ArrivalTime:2020-05-04 08:18
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-19,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-19 02:39
+ArrivalTime:2020-05-19 08:18
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-05,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-05 02:39
+ArrivalTime:2020-05-05 08:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-20,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-20 02:39
+ArrivalTime:2020-05-20 08:18
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-08,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-08 02:39
+ArrivalTime:2020-05-08 08:18
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-23,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-23 02:39
+ArrivalTime:2020-05-23 08:18
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-09,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-09 02:39
+ArrivalTime:2020-05-09 08:18
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-24,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-24 02:39
+ArrivalTime:2020-05-24 08:18
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-10,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-10 02:39
+ArrivalTime:2020-05-10 08:18
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-25,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-25 02:39
+ArrivalTime:2020-05-25 08:18
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-11,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-11 02:39
+ArrivalTime:2020-05-11 08:18
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-26,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-26 02:39
+ArrivalTime:2020-05-26 08:18
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-12,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-12 02:39
+ArrivalTime:2020-05-12 08:18
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-27,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-27 02:39
+ArrivalTime:2020-05-27 08:18
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-13,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-13 02:39
+ArrivalTime:2020-05-13 08:18
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-28,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-28 02:39
+ArrivalTime:2020-05-28 08:18
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-14,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-14 02:39
+ArrivalTime:2020-05-14 08:18
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-29,HU947
+{
+DepartureAirport:Nanchang
+ArrivalAirport:Fuzhou
+DepatureTime:2020-05-29 02:39
+ArrivalTime:2020-05-29 08:18
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-11,KL1098
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Nanning
+DepatureTime:2020-05-11 15:44
+ArrivalTime:2020-05-11 18:37
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-26,KL1098
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Nanning
+DepatureTime:2020-05-26 15:44
+ArrivalTime:2020-05-26 18:37
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-03,KL401
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-03 09:22
+ArrivalTime:2020-05-03 11:50
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-18,KL401
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-18 09:22
+ArrivalTime:2020-05-18 11:50
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-01,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-01 23:39
+ArrivalTime:2020-05-02 03:13
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-16,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-16 23:39
+ArrivalTime:2020-05-16 03:13
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-04,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-04 23:39
+ArrivalTime:2020-05-05 03:13
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-19,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-19 23:39
+ArrivalTime:2020-05-19 03:13
+Plane:N5617
+{
+Type:B757
+Seats:261
+Age:9.1
+}
+}
+Flight:2020-05-09,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-09 23:39
+ArrivalTime:2020-05-10 03:13
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-24,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-24 23:39
+ArrivalTime:2020-05-24 03:13
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-11,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-11 23:39
+ArrivalTime:2020-05-12 03:13
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-26,KL98
+{
+DepartureAirport:Changchun
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-26 23:39
+ArrivalTime:2020-05-26 03:13
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-01,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-01 10:54
+ArrivalTime:2020-05-01 14:55
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-16,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-16 10:54
+ArrivalTime:2020-05-16 14:55
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-04,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-04 10:54
+ArrivalTime:2020-05-04 14:55
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-19,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-19 10:54
+ArrivalTime:2020-05-19 14:55
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-07,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-07 10:54
+ArrivalTime:2020-05-07 14:55
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-22,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-22 10:54
+ArrivalTime:2020-05-22 14:55
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-10,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-10 10:54
+ArrivalTime:2020-05-10 14:55
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-25,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-25 10:54
+ArrivalTime:2020-05-25 14:55
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-13,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-13 10:54
+ArrivalTime:2020-05-13 14:55
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-28,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-28 10:54
+ArrivalTime:2020-05-28 14:55
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-14,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-14 10:54
+ArrivalTime:2020-05-14 14:55
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-29,LH0263
+{
+DepartureAirport:Chongqing
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-29 10:54
+ArrivalTime:2020-05-29 14:55
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-01,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-01 02:41
+ArrivalTime:2020-05-01 06:07
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-16,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-16 02:41
+ArrivalTime:2020-05-16 06:07
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-02,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-02 02:41
+ArrivalTime:2020-05-02 06:07
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-17,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-17 02:41
+ArrivalTime:2020-05-17 06:07
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-03,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-03 02:41
+ArrivalTime:2020-05-03 06:07
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-18,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-18 02:41
+ArrivalTime:2020-05-18 06:07
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-04,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-04 02:41
+ArrivalTime:2020-05-04 06:07
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-19,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-19 02:41
+ArrivalTime:2020-05-19 06:07
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-05,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-05 02:41
+ArrivalTime:2020-05-05 06:07
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-20,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-20 02:41
+ArrivalTime:2020-05-20 06:07
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-06,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-06 02:41
+ArrivalTime:2020-05-06 06:07
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-21,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-21 02:41
+ArrivalTime:2020-05-21 06:07
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-07,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-07 02:41
+ArrivalTime:2020-05-07 06:07
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-22,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-22 02:41
+ArrivalTime:2020-05-22 06:07
+Plane:B5378
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-08,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-08 02:41
+ArrivalTime:2020-05-08 06:07
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-23,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-23 02:41
+ArrivalTime:2020-05-23 06:07
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-09,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-09 02:41
+ArrivalTime:2020-05-09 06:07
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-24,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-24 02:41
+ArrivalTime:2020-05-24 06:07
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-10,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-10 02:41
+ArrivalTime:2020-05-10 06:07
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-25,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-25 02:41
+ArrivalTime:2020-05-25 06:07
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-11,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-11 02:41
+ArrivalTime:2020-05-11 06:07
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-26,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-26 02:41
+ArrivalTime:2020-05-26 06:07
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-12,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-12 02:41
+ArrivalTime:2020-05-12 06:07
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-27,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-27 02:41
+ArrivalTime:2020-05-27 06:07
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-13,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-13 02:41
+ArrivalTime:2020-05-13 06:07
+Plane:N6723
+{
+Type:B747
+Seats:450
+Age:6.9
+}
+}
+Flight:2020-05-28,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-28 02:41
+ArrivalTime:2020-05-28 06:07
+Plane:N6723
+{
+Type:B747
+Seats:450
+Age:6.9
+}
+}
+Flight:2020-05-14,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-14 02:41
+ArrivalTime:2020-05-14 06:07
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-29,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-29 02:41
+ArrivalTime:2020-05-29 06:07
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-15,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-15 02:41
+ArrivalTime:2020-05-15 06:07
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-30,MF139
+{
+DepartureAirport:Kunming
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-30 02:41
+ArrivalTime:2020-05-30 06:07
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-05,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-05 14:04
+ArrivalTime:2020-05-05 16:24
+Plane:B2205
+{
+Type:B757
+Seats:261
+Age:27.1
+}
+}
+Flight:2020-05-20,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-20 14:04
+ArrivalTime:2020-05-20 16:24
+Plane:B2205
+{
+Type:B757
+Seats:261
+Age:27.1
+}
+}
+Flight:2020-05-07,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-07 14:04
+ArrivalTime:2020-05-07 16:24
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-22,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-22 14:04
+ArrivalTime:2020-05-22 16:24
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-08,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-08 14:04
+ArrivalTime:2020-05-08 16:24
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-23,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-23 14:04
+ArrivalTime:2020-05-23 16:24
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-12,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-12 14:04
+ArrivalTime:2020-05-12 16:24
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-27,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-27 14:04
+ArrivalTime:2020-05-27 16:24
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-13,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-13 14:04
+ArrivalTime:2020-05-13 16:24
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-28,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-28 14:04
+ArrivalTime:2020-05-28 16:24
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-15,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-15 14:04
+ArrivalTime:2020-05-15 16:24
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-30,MF273
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taiyuan
+DepatureTime:2020-05-30 14:04
+ArrivalTime:2020-05-30 16:24
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-01,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-01 12:59
+ArrivalTime:2020-05-01 14:19
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-16,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-16 12:59
+ArrivalTime:2020-05-16 14:19
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-02,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-02 12:59
+ArrivalTime:2020-05-02 14:19
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-17,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-17 12:59
+ArrivalTime:2020-05-17 14:19
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-03,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-03 12:59
+ArrivalTime:2020-05-03 14:19
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-18,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-18 12:59
+ArrivalTime:2020-05-18 14:19
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-04,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-04 12:59
+ArrivalTime:2020-05-04 14:19
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-19,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-19 12:59
+ArrivalTime:2020-05-19 14:19
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-05,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-05 12:59
+ArrivalTime:2020-05-05 14:19
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-20,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-20 12:59
+ArrivalTime:2020-05-20 14:19
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-06,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-06 12:59
+ArrivalTime:2020-05-06 14:19
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-21,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-21 12:59
+ArrivalTime:2020-05-21 14:19
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-07,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-07 12:59
+ArrivalTime:2020-05-07 14:19
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-22,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-22 12:59
+ArrivalTime:2020-05-22 14:19
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-08,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-08 12:59
+ArrivalTime:2020-05-08 14:19
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-23,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-23 12:59
+ArrivalTime:2020-05-23 14:19
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-09,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-09 12:59
+ArrivalTime:2020-05-09 14:19
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-24,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-24 12:59
+ArrivalTime:2020-05-24 14:19
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-10,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-10 12:59
+ArrivalTime:2020-05-10 14:19
+Plane:B0458
+{
+Type:C919
+Seats:132
+Age:15.5
+}
+}
+Flight:2020-05-25,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-25 12:59
+ArrivalTime:2020-05-25 14:19
+Plane:B0458
+{
+Type:C919
+Seats:132
+Age:15.5
+}
+}
+Flight:2020-05-11,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-11 12:59
+ArrivalTime:2020-05-11 14:19
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-26,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-26 12:59
+ArrivalTime:2020-05-26 14:19
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-12,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-12 12:59
+ArrivalTime:2020-05-12 14:19
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-27,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-27 12:59
+ArrivalTime:2020-05-27 14:19
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-13,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-13 12:59
+ArrivalTime:2020-05-13 14:19
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-28,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-28 12:59
+ArrivalTime:2020-05-28 14:19
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-14,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-14 12:59
+ArrivalTime:2020-05-14 14:19
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-29,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-29 12:59
+ArrivalTime:2020-05-29 14:19
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-15,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-15 12:59
+ArrivalTime:2020-05-15 14:19
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-30,MF85
+{
+DepartureAirport:Weihai
+ArrivalAirport:Shanghai
+DepatureTime:2020-05-30 12:59
+ArrivalTime:2020-05-30 14:19
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-02,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-02 04:08
+ArrivalTime:2020-05-02 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-17,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-17 04:08
+ArrivalTime:2020-05-17 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-03,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-03 04:08
+ArrivalTime:2020-05-03 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-18,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-18 04:08
+ArrivalTime:2020-05-18 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-04,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-04 04:08
+ArrivalTime:2020-05-04 05:46
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-19,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-19 04:08
+ArrivalTime:2020-05-19 05:46
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-05,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-05 04:08
+ArrivalTime:2020-05-05 05:46
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-20,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-20 04:08
+ArrivalTime:2020-05-20 05:46
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-06,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-06 04:08
+ArrivalTime:2020-05-06 05:46
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-21,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-21 04:08
+ArrivalTime:2020-05-21 05:46
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-07,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-07 04:08
+ArrivalTime:2020-05-07 05:46
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-22,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-22 04:08
+ArrivalTime:2020-05-22 05:46
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-08,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-08 04:08
+ArrivalTime:2020-05-08 05:46
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-23,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-23 04:08
+ArrivalTime:2020-05-23 05:46
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-09,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-09 04:08
+ArrivalTime:2020-05-09 05:46
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-24,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-24 04:08
+ArrivalTime:2020-05-24 05:46
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-10,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-10 04:08
+ArrivalTime:2020-05-10 05:46
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-25,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-25 04:08
+ArrivalTime:2020-05-25 05:46
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-12,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-12 04:08
+ArrivalTime:2020-05-12 05:46
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-27,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-27 04:08
+ArrivalTime:2020-05-27 05:46
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-13,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-13 04:08
+ArrivalTime:2020-05-13 05:46
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-28,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-28 04:08
+ArrivalTime:2020-05-28 05:46
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-15,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-15 04:08
+ArrivalTime:2020-05-15 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-30,MU059
+{
+DepartureAirport:Wuhan
+ArrivalAirport:Xian
+DepatureTime:2020-05-30 04:08
+ArrivalTime:2020-05-30 05:46
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-01,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-01 04:35
+ArrivalTime:2020-05-01 06:25
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-16,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-16 04:35
+ArrivalTime:2020-05-16 06:25
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-02,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-02 04:35
+ArrivalTime:2020-05-02 06:25
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-17,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-17 04:35
+ArrivalTime:2020-05-17 06:25
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-03,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-03 04:35
+ArrivalTime:2020-05-03 06:25
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-18,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-18 04:35
+ArrivalTime:2020-05-18 06:25
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-04,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-04 04:35
+ArrivalTime:2020-05-04 06:25
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-19,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-19 04:35
+ArrivalTime:2020-05-19 06:25
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-05,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-05 04:35
+ArrivalTime:2020-05-05 06:25
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-20,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-20 04:35
+ArrivalTime:2020-05-20 06:25
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-06,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-06 04:35
+ArrivalTime:2020-05-06 06:25
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-21,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-21 04:35
+ArrivalTime:2020-05-21 06:25
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-07,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-07 04:35
+ArrivalTime:2020-05-07 06:25
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-22,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-22 04:35
+ArrivalTime:2020-05-22 06:25
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-08,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-08 04:35
+ArrivalTime:2020-05-08 06:25
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-23,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-23 04:35
+ArrivalTime:2020-05-23 06:25
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-09,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-09 04:35
+ArrivalTime:2020-05-09 06:25
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-24,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-24 04:35
+ArrivalTime:2020-05-24 06:25
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-10,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-10 04:35
+ArrivalTime:2020-05-10 06:25
+Plane:B3196
+{
+Type:B747
+Seats:450
+Age:19.3
+}
+}
+Flight:2020-05-25,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-25 04:35
+ArrivalTime:2020-05-25 06:25
+Plane:B3196
+{
+Type:B747
+Seats:450
+Age:19.3
+}
+}
+Flight:2020-05-11,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-11 04:35
+ArrivalTime:2020-05-11 06:25
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-26,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-26 04:35
+ArrivalTime:2020-05-26 06:25
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-12,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-12 04:35
+ArrivalTime:2020-05-12 06:25
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-27,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-27 04:35
+ArrivalTime:2020-05-27 06:25
+Plane:N0036
+{
+Type:A340
+Seats:332
+Age:4.7
+}
+}
+Flight:2020-05-13,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-13 04:35
+ArrivalTime:2020-05-13 06:25
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-28,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-28 04:35
+ArrivalTime:2020-05-28 06:25
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-14,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-14 04:35
+ArrivalTime:2020-05-14 06:25
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-29,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-29 04:35
+ArrivalTime:2020-05-29 06:25
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-15,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-15 04:35
+ArrivalTime:2020-05-15 06:25
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-30,MU6171
+{
+DepartureAirport:Ningbo
+ArrivalAirport:Qingdao
+DepatureTime:2020-05-30 04:35
+ArrivalTime:2020-05-30 06:25
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-09,NX0849
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-09 02:21
+ArrivalTime:2020-05-09 04:57
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-24,NX0849
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-24 02:21
+ArrivalTime:2020-05-24 04:57
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-01,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-01 08:11
+ArrivalTime:2020-05-01 11:42
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-16,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-16 08:11
+ArrivalTime:2020-05-16 11:42
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-02,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-02 08:11
+ArrivalTime:2020-05-02 11:42
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-17,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-17 08:11
+ArrivalTime:2020-05-17 11:42
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-03,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-03 08:11
+ArrivalTime:2020-05-03 11:42
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-18,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-18 08:11
+ArrivalTime:2020-05-18 11:42
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-04,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-04 08:11
+ArrivalTime:2020-05-04 11:42
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-19,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-19 08:11
+ArrivalTime:2020-05-19 11:42
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-05,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-05 08:11
+ArrivalTime:2020-05-05 11:42
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-20,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-20 08:11
+ArrivalTime:2020-05-20 11:42
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-06,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-06 08:11
+ArrivalTime:2020-05-06 11:42
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-21,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-21 08:11
+ArrivalTime:2020-05-21 11:42
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-07,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-07 08:11
+ArrivalTime:2020-05-07 11:42
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-22,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-22 08:11
+ArrivalTime:2020-05-22 11:42
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-08,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-08 08:11
+ArrivalTime:2020-05-08 11:42
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-23,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-23 08:11
+ArrivalTime:2020-05-23 11:42
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-09,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-09 08:11
+ArrivalTime:2020-05-09 11:42
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-24,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-24 08:11
+ArrivalTime:2020-05-24 11:42
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-10,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-10 08:11
+ArrivalTime:2020-05-10 11:42
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-25,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-25 08:11
+ArrivalTime:2020-05-25 11:42
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-11,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-11 08:11
+ArrivalTime:2020-05-11 11:42
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-26,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-26 08:11
+ArrivalTime:2020-05-26 11:42
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-12,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-12 08:11
+ArrivalTime:2020-05-12 11:42
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-27,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-27 08:11
+ArrivalTime:2020-05-27 11:42
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-13,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-13 08:11
+ArrivalTime:2020-05-13 11:42
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-28,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-28 08:11
+ArrivalTime:2020-05-28 11:42
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-14,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-14 08:11
+ArrivalTime:2020-05-14 11:42
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-29,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-29 08:11
+ArrivalTime:2020-05-29 11:42
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-15,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-15 08:11
+ArrivalTime:2020-05-15 11:42
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-30,NX49
+{
+DepartureAirport:Taiyuan
+ArrivalAirport:Zhengzhou
+DepatureTime:2020-05-30 08:11
+ArrivalTime:2020-05-30 11:42
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-05,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-05 03:32
+ArrivalTime:2020-05-05 09:29
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-20,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-20 03:32
+ArrivalTime:2020-05-20 09:29
+Plane:B7408
+{
+Type:C929
+Seats:310
+Age:27.5
+}
+}
+Flight:2020-05-09,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-09 03:32
+ArrivalTime:2020-05-09 09:29
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-24,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-24 03:32
+ArrivalTime:2020-05-24 09:29
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-13,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-13 03:32
+ArrivalTime:2020-05-13 09:29
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-28,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-28 03:32
+ArrivalTime:2020-05-28 09:29
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-14,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-14 03:32
+ArrivalTime:2020-05-14 09:29
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-29,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-29 03:32
+ArrivalTime:2020-05-29 09:29
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-15,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-15 03:32
+ArrivalTime:2020-05-15 09:29
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-30,NX749
+{
+DepartureAirport:Weihai
+ArrivalAirport:Kunming
+DepatureTime:2020-05-30 03:32
+ArrivalTime:2020-05-30 09:29
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-15,NX75
+{
+DepartureAirport:Xining
+ArrivalAirport:Hefei
+DepatureTime:2020-05-15 16:28
+ArrivalTime:2020-05-15 18:39
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-30,NX75
+{
+DepartureAirport:Xining
+ArrivalAirport:Hefei
+DepatureTime:2020-05-30 16:28
+ArrivalTime:2020-05-30 18:39
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-01,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-01 10:43
+ArrivalTime:2020-05-01 12:03
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-16,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-16 10:43
+ArrivalTime:2020-05-16 12:03
+Plane:N8625
+{
+Type:A380
+Seats:468
+Age:25
+}
+}
+Flight:2020-05-02,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-02 10:43
+ArrivalTime:2020-05-02 12:03
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-17,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-17 10:43
+ArrivalTime:2020-05-17 12:03
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-03,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-03 10:43
+ArrivalTime:2020-05-03 12:03
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-18,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-18 10:43
+ArrivalTime:2020-05-18 12:03
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-04,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-04 10:43
+ArrivalTime:2020-05-04 12:03
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-19,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-19 10:43
+ArrivalTime:2020-05-19 12:03
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-05,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-05 10:43
+ArrivalTime:2020-05-05 12:03
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-20,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-20 10:43
+ArrivalTime:2020-05-20 12:03
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-06,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-06 10:43
+ArrivalTime:2020-05-06 12:03
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-21,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-21 10:43
+ArrivalTime:2020-05-21 12:03
+Plane:N8363
+{
+Type:B787
+Seats:428
+Age:26.8
+}
+}
+Flight:2020-05-07,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-07 10:43
+ArrivalTime:2020-05-07 12:03
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-22,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-22 10:43
+ArrivalTime:2020-05-22 12:03
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-08,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-08 10:43
+ArrivalTime:2020-05-08 12:03
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-23,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-23 10:43
+ArrivalTime:2020-05-23 12:03
+Plane:B6802
+{
+Type:B767
+Seats:289
+Age:14
+}
+}
+Flight:2020-05-09,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-09 10:43
+ArrivalTime:2020-05-09 12:03
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-24,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-24 10:43
+ArrivalTime:2020-05-24 12:03
+Plane:B1297
+{
+Type:C919
+Seats:132
+Age:3
+}
+}
+Flight:2020-05-10,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-10 10:43
+ArrivalTime:2020-05-10 12:03
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-25,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-25 10:43
+ArrivalTime:2020-05-25 12:03
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-11,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-11 10:43
+ArrivalTime:2020-05-11 12:03
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-26,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-26 10:43
+ArrivalTime:2020-05-26 12:03
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-12,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-12 10:43
+ArrivalTime:2020-05-12 12:03
+Plane:B8766
+{
+Type:A350
+Seats:286
+Age:21.7
+}
+}
+Flight:2020-05-27,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-27 10:43
+ArrivalTime:2020-05-27 12:03
+Plane:B8766
+{
+Type:A350
+Seats:286
+Age:21.7
+}
+}
+Flight:2020-05-13,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-13 10:43
+ArrivalTime:2020-05-13 12:03
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-28,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-28 10:43
+ArrivalTime:2020-05-28 12:03
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-14,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-14 10:43
+ArrivalTime:2020-05-14 12:03
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-29,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-29 10:43
+ArrivalTime:2020-05-29 12:03
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-15,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-15 10:43
+ArrivalTime:2020-05-15 12:03
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-30,SC01
+{
+DepartureAirport:Yantai
+ArrivalAirport:Hongkong
+DepatureTime:2020-05-30 10:43
+ArrivalTime:2020-05-30 12:03
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-01,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-01 18:28
+ArrivalTime:2020-05-01 22:16
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-16,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-16 18:28
+ArrivalTime:2020-05-16 22:16
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-02,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-02 18:28
+ArrivalTime:2020-05-02 22:16
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-17,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-17 18:28
+ArrivalTime:2020-05-17 22:16
+Plane:N3244
+{
+Type:C929
+Seats:310
+Age:3.7
+}
+}
+Flight:2020-05-03,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-03 18:28
+ArrivalTime:2020-05-03 22:16
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-18,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-18 18:28
+ArrivalTime:2020-05-18 22:16
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-04,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-04 18:28
+ArrivalTime:2020-05-04 22:16
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-19,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-19 18:28
+ArrivalTime:2020-05-19 22:16
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-05,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-05 18:28
+ArrivalTime:2020-05-05 22:16
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-20,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-20 18:28
+ArrivalTime:2020-05-20 22:16
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-06,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-06 18:28
+ArrivalTime:2020-05-06 22:16
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-21,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-21 18:28
+ArrivalTime:2020-05-21 22:16
+Plane:N7714
+{
+Type:A330
+Seats:318
+Age:8.1
+}
+}
+Flight:2020-05-07,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-07 18:28
+ArrivalTime:2020-05-07 22:16
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-22,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-22 18:28
+ArrivalTime:2020-05-22 22:16
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-08,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-08 18:28
+ArrivalTime:2020-05-08 22:16
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-23,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-23 18:28
+ArrivalTime:2020-05-23 22:16
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-09,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-09 18:28
+ArrivalTime:2020-05-09 22:16
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-24,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-24 18:28
+ArrivalTime:2020-05-24 22:16
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-10,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-10 18:28
+ArrivalTime:2020-05-10 22:16
+Plane:B2205
+{
+Type:B757
+Seats:261
+Age:27.1
+}
+}
+Flight:2020-05-25,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-25 18:28
+ArrivalTime:2020-05-25 22:16
+Plane:B2205
+{
+Type:B757
+Seats:261
+Age:27.1
+}
+}
+Flight:2020-05-11,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-11 18:28
+ArrivalTime:2020-05-11 22:16
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-26,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-26 18:28
+ArrivalTime:2020-05-26 22:16
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-12,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-12 18:28
+ArrivalTime:2020-05-12 22:16
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-27,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-27 18:28
+ArrivalTime:2020-05-27 22:16
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-13,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-13 18:28
+ArrivalTime:2020-05-13 22:16
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-28,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-28 18:28
+ArrivalTime:2020-05-28 22:16
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-14,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-14 18:28
+ArrivalTime:2020-05-14 22:16
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-29,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-29 18:28
+ArrivalTime:2020-05-29 22:16
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-15,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-15 18:28
+ArrivalTime:2020-05-15 22:16
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-30,SC1342
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Kunming
+DepatureTime:2020-05-30 18:28
+ArrivalTime:2020-05-30 22:16
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-01,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-01 22:11
+ArrivalTime:2020-05-01 23:20
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-16,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-16 22:11
+ArrivalTime:2020-05-16 23:20
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-02,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-02 22:11
+ArrivalTime:2020-05-02 23:20
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-17,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-17 22:11
+ArrivalTime:2020-05-17 23:20
+Plane:B2230
+{
+Type:A380
+Seats:468
+Age:3.9
+}
+}
+Flight:2020-05-03,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-03 22:11
+ArrivalTime:2020-05-03 23:20
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-18,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-18 22:11
+ArrivalTime:2020-05-18 23:20
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-04,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-04 22:11
+ArrivalTime:2020-05-04 23:20
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-19,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-19 22:11
+ArrivalTime:2020-05-19 23:20
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-05,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-05 22:11
+ArrivalTime:2020-05-05 23:20
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-20,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-20 22:11
+ArrivalTime:2020-05-20 23:20
+Plane:N1236
+{
+Type:C919
+Seats:132
+Age:22.4
+}
+}
+Flight:2020-05-06,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-06 22:11
+ArrivalTime:2020-05-06 23:20
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-21,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-21 22:11
+ArrivalTime:2020-05-21 23:20
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-07,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-07 22:11
+ArrivalTime:2020-05-07 23:20
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-22,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-22 22:11
+ArrivalTime:2020-05-22 23:20
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-08,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-08 22:11
+ArrivalTime:2020-05-08 23:20
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-23,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-23 22:11
+ArrivalTime:2020-05-23 23:20
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-09,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-09 22:11
+ArrivalTime:2020-05-09 23:20
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-24,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-24 22:11
+ArrivalTime:2020-05-24 23:20
+Plane:N4993
+{
+Type:A330
+Seats:318
+Age:25.2
+}
+}
+Flight:2020-05-10,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-10 22:11
+ArrivalTime:2020-05-10 23:20
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-25,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-25 22:11
+ArrivalTime:2020-05-25 23:20
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-11,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-11 22:11
+ArrivalTime:2020-05-11 23:20
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-26,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-26 22:11
+ArrivalTime:2020-05-26 23:20
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-12,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-12 22:11
+ArrivalTime:2020-05-12 23:20
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-27,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-27 22:11
+ArrivalTime:2020-05-27 23:20
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-13,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-13 22:11
+ArrivalTime:2020-05-13 23:20
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-28,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-28 22:11
+ArrivalTime:2020-05-28 23:20
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-14,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-14 22:11
+ArrivalTime:2020-05-14 23:20
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-29,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-29 22:11
+ArrivalTime:2020-05-29 23:20
+Plane:B5083
+{
+Type:C919
+Seats:132
+Age:24.2
+}
+}
+Flight:2020-05-15,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-15 22:11
+ArrivalTime:2020-05-15 23:20
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-30,SC956
+{
+DepartureAirport:Changchun
+ArrivalAirport:Taipei
+DepatureTime:2020-05-30 22:11
+ArrivalTime:2020-05-30 23:20
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-03,SQ06
+{
+DepartureAirport:Changsha
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-03 10:22
+ArrivalTime:2020-05-03 14:31
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-18,SQ06
+{
+DepartureAirport:Changsha
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-18 10:22
+ArrivalTime:2020-05-18 14:31
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-02,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-02 22:24
+ArrivalTime:2020-05-03 00:31
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-17,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-17 22:24
+ArrivalTime:2020-05-17 00:31
+Plane:B6043
+{
+Type:B767
+Seats:289
+Age:23.3
+}
+}
+Flight:2020-05-07,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-07 22:24
+ArrivalTime:2020-05-08 00:31
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-22,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-22 22:24
+ArrivalTime:2020-05-22 00:31
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-08,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-08 22:24
+ArrivalTime:2020-05-09 00:31
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-23,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-23 22:24
+ArrivalTime:2020-05-23 00:31
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-11,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-11 22:24
+ArrivalTime:2020-05-12 00:31
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-26,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-26 22:24
+ArrivalTime:2020-05-26 00:31
+Plane:N9803
+{
+Type:C929
+Seats:310
+Age:14.2
+}
+}
+Flight:2020-05-13,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-13 22:24
+ArrivalTime:2020-05-14 00:31
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-28,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-28 22:24
+ArrivalTime:2020-05-28 00:31
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-14,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-14 22:24
+ArrivalTime:2020-05-15 00:31
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-29,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-29 22:24
+ArrivalTime:2020-05-29 00:31
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-15,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-15 22:24
+ArrivalTime:2020-05-16 00:31
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-30,SQ375
+{
+DepartureAirport:Haikou
+ArrivalAirport:Nanchang
+DepatureTime:2020-05-30 22:24
+ArrivalTime:2020-05-30 00:31
+Plane:N1543
+{
+Type:C929
+Seats:310
+Age:22.6
+}
+}
+Flight:2020-05-01,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-01 03:14
+ArrivalTime:2020-05-01 07:48
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-16,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-16 03:14
+ArrivalTime:2020-05-16 07:48
+Plane:B8843
+{
+Type:B787
+Seats:428
+Age:26.7
+}
+}
+Flight:2020-05-03,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-03 03:14
+ArrivalTime:2020-05-03 07:48
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-18,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-18 03:14
+ArrivalTime:2020-05-18 07:48
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-04,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-04 03:14
+ArrivalTime:2020-05-04 07:48
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-19,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-19 03:14
+ArrivalTime:2020-05-19 07:48
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-05,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-05 03:14
+ArrivalTime:2020-05-05 07:48
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-20,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-20 03:14
+ArrivalTime:2020-05-20 07:48
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-06,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-06 03:14
+ArrivalTime:2020-05-06 07:48
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-21,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-21 03:14
+ArrivalTime:2020-05-21 07:48
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-07,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-07 03:14
+ArrivalTime:2020-05-07 07:48
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-22,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-22 03:14
+ArrivalTime:2020-05-22 07:48
+Plane:B6340
+{
+Type:A380
+Seats:468
+Age:12.4
+}
+}
+Flight:2020-05-08,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-08 03:14
+ArrivalTime:2020-05-08 07:48
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-23,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-23 03:14
+ArrivalTime:2020-05-23 07:48
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-09,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-09 03:14
+ArrivalTime:2020-05-09 07:48
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-24,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-24 03:14
+ArrivalTime:2020-05-24 07:48
+Plane:B2749
+{
+Type:A340
+Seats:332
+Age:10.9
+}
+}
+Flight:2020-05-10,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-10 03:14
+ArrivalTime:2020-05-10 07:48
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-25,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-25 03:14
+ArrivalTime:2020-05-25 07:48
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-11,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-11 03:14
+ArrivalTime:2020-05-11 07:48
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-26,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-26 03:14
+ArrivalTime:2020-05-26 07:48
+Plane:B4892
+{
+Type:B767
+Seats:289
+Age:21.9
+}
+}
+Flight:2020-05-12,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-12 03:14
+ArrivalTime:2020-05-12 07:48
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-27,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-27 03:14
+ArrivalTime:2020-05-27 07:48
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-13,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-13 03:14
+ArrivalTime:2020-05-13 07:48
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-28,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-28 03:14
+ArrivalTime:2020-05-28 07:48
+Plane:N9452
+{
+Type:B757
+Seats:261
+Age:20
+}
+}
+Flight:2020-05-14,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-14 03:14
+ArrivalTime:2020-05-14 07:48
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-29,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-29 03:14
+ArrivalTime:2020-05-29 07:48
+Plane:N5375
+{
+Type:B757
+Seats:261
+Age:3.1
+}
+}
+Flight:2020-05-15,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-15 03:14
+ArrivalTime:2020-05-15 07:48
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-30,UA1082
+{
+DepartureAirport:Dalian
+ArrivalAirport:Shijiazhuang
+DepatureTime:2020-05-30 03:14
+ArrivalTime:2020-05-30 07:48
+Plane:B4979
+{
+Type:A319
+Seats:140
+Age:7.7
+}
+}
+Flight:2020-05-07,UA985
+{
+DepartureAirport:Fuzhou
+ArrivalAirport:Taipei
+DepatureTime:2020-05-07 10:33
+ArrivalTime:2020-05-07 13:26
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-22,UA985
+{
+DepartureAirport:Fuzhou
+ArrivalAirport:Taipei
+DepatureTime:2020-05-22 10:33
+ArrivalTime:2020-05-22 13:26
+Plane:N3616
+{
+Type:A340
+Seats:332
+Age:1.3
+}
+}
+Flight:2020-05-06,ZH045
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-06 03:53
+ArrivalTime:2020-05-06 06:16
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-21,ZH045
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-21 03:53
+ArrivalTime:2020-05-21 06:16
+Plane:N3522
+{
+Type:A340
+Seats:332
+Age:15.4
+}
+}
+Flight:2020-05-14,ZH045
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-14 03:53
+ArrivalTime:2020-05-14 06:16
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-29,ZH045
+{
+DepartureAirport:Shenyang
+ArrivalAirport:Wuhan
+DepatureTime:2020-05-29 03:53
+ArrivalTime:2020-05-29 06:16
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-05,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-05 15:02
+ArrivalTime:2020-05-05 16:24
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-20,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-20 15:02
+ArrivalTime:2020-05-20 16:24
+Plane:B2581
+{
+Type:A320
+Seats:165
+Age:8.1
+}
+}
+Flight:2020-05-06,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-06 15:02
+ArrivalTime:2020-05-06 16:24
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-21,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-21 15:02
+ArrivalTime:2020-05-21 16:24
+Plane:B9035
+{
+Type:A330
+Seats:318
+Age:14.4
+}
+}
+Flight:2020-05-10,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-10 15:02
+ArrivalTime:2020-05-10 16:24
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-25,ZH2232
+{
+DepartureAirport:Jinan
+ArrivalAirport:Guiyang
+DepatureTime:2020-05-25 15:02
+ArrivalTime:2020-05-25 16:24
+Plane:N3830
+{
+Type:B767
+Seats:289
+Age:4.7
+}
+}
+Flight:2020-05-01,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-01 01:00
+ArrivalTime:2020-05-01 06:31
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-16,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-16 01:00
+ArrivalTime:2020-05-16 06:31
+Plane:N9614
+{
+Type:A319
+Seats:140
+Age:15.9
+}
+}
+Flight:2020-05-02,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-02 01:00
+ArrivalTime:2020-05-02 06:31
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-17,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-17 01:00
+ArrivalTime:2020-05-17 06:31
+Plane:N1992
+{
+Type:B747
+Seats:450
+Age:15.8
+}
+}
+Flight:2020-05-03,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-03 01:00
+ArrivalTime:2020-05-03 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-18,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-18 01:00
+ArrivalTime:2020-05-18 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-04,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-04 01:00
+ArrivalTime:2020-05-04 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-19,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-19 01:00
+ArrivalTime:2020-05-19 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-05,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-05 01:00
+ArrivalTime:2020-05-05 06:31
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-20,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-20 01:00
+ArrivalTime:2020-05-20 06:31
+Plane:N7932
+{
+Type:A330
+Seats:318
+Age:3.2
+}
+}
+Flight:2020-05-06,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-06 01:00
+ArrivalTime:2020-05-06 06:31
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-21,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-21 01:00
+ArrivalTime:2020-05-21 06:31
+Plane:B3380
+{
+Type:B737
+Seats:145
+Age:20.1
+}
+}
+Flight:2020-05-07,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-07 01:00
+ArrivalTime:2020-05-07 06:31
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-22,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-22 01:00
+ArrivalTime:2020-05-22 06:31
+Plane:B3898
+{
+Type:B787
+Seats:428
+Age:17.3
+}
+}
+Flight:2020-05-08,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-08 01:00
+ArrivalTime:2020-05-08 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-23,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-23 01:00
+ArrivalTime:2020-05-23 06:31
+Plane:B1310
+{
+Type:A319
+Seats:140
+Age:2.4
+}
+}
+Flight:2020-05-09,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-09 01:00
+ArrivalTime:2020-05-09 06:31
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-24,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-24 01:00
+ArrivalTime:2020-05-24 06:31
+Plane:B9273
+{
+Type:A380
+Seats:468
+Age:6.8
+}
+}
+Flight:2020-05-10,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-10 01:00
+ArrivalTime:2020-05-10 06:31
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-25,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-25 01:00
+ArrivalTime:2020-05-25 06:31
+Plane:B4007
+{
+Type:A330
+Seats:318
+Age:2.1
+}
+}
+Flight:2020-05-11,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-11 01:00
+ArrivalTime:2020-05-11 06:31
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-26,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-26 01:00
+ArrivalTime:2020-05-26 06:31
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-12,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-12 01:00
+ArrivalTime:2020-05-12 06:31
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-27,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-27 01:00
+ArrivalTime:2020-05-27 06:31
+Plane:N9493
+{
+Type:C929
+Seats:310
+Age:5
+}
+}
+Flight:2020-05-13,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-13 01:00
+ArrivalTime:2020-05-13 06:31
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-28,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-28 01:00
+ArrivalTime:2020-05-28 06:31
+Plane:N5888
+{
+Type:A350
+Seats:286
+Age:21.5
+}
+}
+Flight:2020-05-14,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-14 01:00
+ArrivalTime:2020-05-14 06:31
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-29,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-29 01:00
+ArrivalTime:2020-05-29 06:31
+Plane:N9649
+{
+Type:A319
+Seats:140
+Age:13.3
+}
+}
+Flight:2020-05-15,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-15 01:00
+ArrivalTime:2020-05-15 06:31
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-30,ZH85
+{
+DepartureAirport:Shanghai
+ArrivalAirport:Dalian
+DepatureTime:2020-05-30 01:00
+ArrivalTime:2020-05-30 06:31
+Plane:N6776
+{
+Type:A330
+Seats:318
+Age:9
+}
+}
+Flight:2020-05-01,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-01 15:06
+ArrivalTime:2020-05-01 18:00
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-16,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-16 15:06
+ArrivalTime:2020-05-16 18:00
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-03,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-03 15:06
+ArrivalTime:2020-05-03 18:00
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-18,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-18 15:06
+ArrivalTime:2020-05-18 18:00
+Plane:N7802
+{
+Type:B747
+Seats:450
+Age:15.4
+}
+}
+Flight:2020-05-09,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-09 15:06
+ArrivalTime:2020-05-09 18:00
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}
+Flight:2020-05-24,ZH9673
+{
+DepartureAirport:Guangzhou
+ArrivalAirport:Jinan
+DepatureTime:2020-05-24 15:06
+ArrivalTime:2020-05-24 18:00
+Plane:B0741
+{
+Type:A380
+Seats:468
+Age:1.1
+}
+}

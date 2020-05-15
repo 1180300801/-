@@ -5,7 +5,10 @@ import location.Location;
 public class SingleLocationEntryImpl implements SingleLocationEntry {
 
 	private Location location;
-	
+	//AF:单个计划项的位置
+	//RI:true
+	//Safety from rep exposure:所有属性均为私有
+
 	@Override
 	public void setLocations(Location location) {
 		// TODO Auto-generated method stub

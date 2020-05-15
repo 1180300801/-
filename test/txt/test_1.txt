@@ -1,0 +1,39 @@
+Flight:2020-05-01,AA72
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Sanya
+DepatureTime:2020-05-01 03:15
+ArrivalTime:2020-05-01 05:25
+Plane:B6863
+{
+Type:A319
+Seats:140
+Age:8.5
+}
+}
+Flight:2020-05-01,SC30
+{
+DepartureAirport:Shijiazhuang
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-01 13:25
+ArrivalTime:2020-05-01 16:18
+Plane:B6863
+{
+Type:A319
+Seats:140
+Age:8.5
+}
+}
+Flight:2020-05-01,AA79
+{
+DepartureAirport:Tianjin
+ArrivalAirport:Nanjing
+DepatureTime:2020-05-01 14:25
+ArrivalTime:2020-05-01 17:18
+Plane:B6863
+{
+Type:A319
+Seats:140
+Age:8.5
+}
+}
