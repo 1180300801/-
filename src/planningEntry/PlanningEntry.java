@@ -1,7 +1,7 @@
 package planningEntry;
 
 import java.util.List;
-
+import resource.Resource;
 import timeslot.Timeslot;
 
 public interface PlanningEntry {
@@ -37,7 +37,7 @@ public interface PlanningEntry {
 	 * 
 	 * @return 资源列表，表中存放资源的唯一标识
 	 */
-	public List<String> getResource();
+	public List<Resource> getResource();
 	
 	/**
 	 * 设置起止时间

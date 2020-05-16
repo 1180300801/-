@@ -21,9 +21,9 @@ import resource.Flight;
 
 public class FlightCollection implements Iterable<FlightEntry>,Collection{
 
-	private List<FlightEntry> flightCollection = new ArrayList<FlightEntry>();
-	private Set<Location> airports  = new HashSet<Location>();
-	private Set<Flight> flights = new HashSet<Flight>();
+	private List<FlightEntry> flightCollection = new ArrayList<FlightEntry>();//存放所有航班计划
+	private Set<Location> airports  = new HashSet<Location>();//存放所有航班计划中出现的机场
+	private Set<Flight> flights = new HashSet<Flight>();//存放所有航班计划中使用到的飞机
 	//AF:一个存储航班计划，可用位置和资源的计划项集
 	//RI：true
 	//Safety from rep exposure:所有属性均为私有
@@ -263,7 +263,7 @@ public class FlightCollection implements Iterable<FlightEntry>,Collection{
 	  * @author Administrator
 	  *
 	  */
-	 public class Itr implements Iterator<FlightEntry>{
+	 class Itr implements Iterator<FlightEntry>{
 		
 		 Iterator<FlightEntry> it;
 		

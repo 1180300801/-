@@ -2,12 +2,13 @@ package planningEntryAPIs;
 
 import java.util.List;
 import planningEntryCollection.EntryComparator;
+import resource.Resource;
 import planningEntry.PlanningEntry;
 
 public class FindPreEntryPerResource implements PreEntryPerResourceAPI {
 
 	@Override
-	public PlanningEntry findPreEntryPerResource(String r, PlanningEntry e, List<PlanningEntry> entries) {
+	public PlanningEntry findPreEntryPerResource(Resource r, PlanningEntry e, List<PlanningEntry> entries) {
 		// TODO Auto-generated method stub
 		PlanningEntry cpe = null;
 		EntryComparator comp = new EntryComparator();

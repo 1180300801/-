@@ -16,11 +16,11 @@ import planningEntry.FlightEntry;
 import planningEntry.PlanningEntry;
 import planningEntry.SingleSortedResourceEntryImpl;
 import planningEntry.TwoLocationEntryImpl;
-import planningEntryAPIs.CheckResourceExclusiveConflict;
-import planningEntryAPIs.FindPreEntryPerResource;
+import planningEntryAPIs.PlanningEntryAPIs;
 import planningEntryCollection.FlightCollection;
 import planningEntryCollection.ShowCollection;
 import resource.Flight;
+import resource.Resource;
 import timeslot.Timeslot;
 
 import javax.swing.JTextField;
@@ -50,6 +50,7 @@ public class FlightScheduleApp {
 	private JTextField textField_3;
 	private static FlightCollection fc;
 	private JTextField textField_1;
+	private JTextField textField_4;
 	//AF:表示管理航班计划app的主页面
     //RI:true
     //Safety from rep exposure:所有属性均为私有
@@ -84,7 +85,7 @@ public class FlightScheduleApp {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 474, 337);
+		frame.setBounds(100, 100, 474, 365);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
@@ -97,14 +98,14 @@ public class FlightScheduleApp {
 		
 		JPanel panel_2 = new JPanel();
 		panel_2.setBorder(new TitledBorder(null, "JPanel title", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		panel_2.setBounds(335, -18, 123, 201);
+		panel_2.setBounds(335, -18, 123, 227);
 		frame.getContentPane().add(panel_2);
 		panel_2.setLayout(null);
 		
 		
 		JPanel panel = new JPanel();
 		panel.setBorder(new TitledBorder(null, "JPanel title", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		panel.setBounds(-6, 8, 348, 175);
+		panel.setBounds(-6, 8, 348, 201);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
@@ -210,6 +211,15 @@ public class FlightScheduleApp {
 		textField_1.setBounds(245, 20, 82, 21);
 		panel.add(textField_1);
 		textField_1.setColumns(10);
+		
+		JLabel lblNewLabel_7 = new JLabel("\u65B0 \u6587 \u4EF6");
+		lblNewLabel_7.setBounds(10, 173, 54, 15);
+		panel.add(lblNewLabel_7);
+		
+		textField_4 = new JTextField();
+		textField_4.setBounds(74, 176, 264, 21);
+		panel.add(textField_4);
+		textField_4.setColumns(10);
 		
 		//展示所有计划项
 		JButton btnNewButton = new JButton("\u6240\u6709\u822A\u73ED\u8BA1\u5212");
@@ -477,6 +487,21 @@ public class FlightScheduleApp {
 		btnNewButton_9.setBounds(6, 142, 116, 25);
 		panel_2.add(btnNewButton_9);
 		
+		JButton btnNewButton_14 = new JButton("\u8BFB\u53D6\u65B0\u6587\u4EF6");
+		btnNewButton_14.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				String str = textField_4.getText();
+				try {
+					setMessage(str);
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+			}
+		});
+		btnNewButton_14.setBounds(6, 202, 116, 23);
+		panel_2.add(btnNewButton_14);
+		
 		//管理资源
 		JButton btnNewButton_10 = new JButton("\u7BA1\u7406\u8D44\u6E90");
 		btnNewButton_10.addActionListener(new ActionListener() {
@@ -485,7 +510,7 @@ public class FlightScheduleApp {
 				addFlight.show(addFlight);				
 			}
 		});
-		btnNewButton_10.setBounds(222, 193, 103, 23);
+		btnNewButton_10.setBounds(222, 213, 103, 23);
 		frame.getContentPane().add(btnNewButton_10);
 		
 		//管理位置
@@ -497,11 +522,11 @@ public class FlightScheduleApp {
 				addLocation.show();
 			}
 		});
-		btnNewButton_11.setBounds(335, 193, 117, 23);
+		btnNewButton_11.setBounds(335, 213, 117, 23);
 		frame.getContentPane().add(btnNewButton_11);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(0, 222, 458, 80);
+		scrollPane.setBounds(0, 250, 458, 80);
 		frame.getContentPane().add(scrollPane);
 		
 		//备注
@@ -509,7 +534,7 @@ public class FlightScheduleApp {
 		textArea.setBackground(Color.LIGHT_GRAY);
 		textArea.setForeground(Color.RED);
 		scrollPane.setViewportView(textArea);
-		textArea.setText(" \u6CE8\uFF1A1.\u201C\u6240\u6709\u822A\u73ED\u8BA1\u5212\u201D\uFF1A\u67E5\u770B\u5F53\u524D\u8BA1\u5212\u96C6\u4E2D\u7684\u6240\u6709\u822A\u73ED\u8BA1\u5212\u3002\r\n2.\u201C\u5F53\u524D\u4F4D\u7F6E\u822A\u73ED\u201D\uFF1A\u53EA\u9700\u5728\u8D77\u98DE\u673A\u573A\u5904\u8F93\u5165\u4F4D\u7F6E\uFF0C\u5C31\u53EF\u67E5\u770B\u8BE5\u4F4D\u7F6E\u7684\u822A\u73ED\u8868\u3002\r\n3.\u201C\u5F53\u524D\u8D44\u6E90\u822A\u73ED\u201D\uFF1A\u8F93\u5165\u5BF9\u5E94\u7684\u98DE\u673A\u7F16\u53F7\uFF0C\u5373\u53EF\u67E5\u770B\u8BE5\u98DE\u673A\u7684\u4F7F\u7528\u60C5\u51B5\u3002\r\n4.\u201C\u5F53\u524D\u822A\u73ED\u72B6\u6001\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u67E5\u770B\u8BE5\u822A\u73ED\u5F53\u524D\u72B6\u6001\u3002\r\n5.\u201C\u65B0\u589E\u822A\u73ED\u201D\uFF1A\u9664\u8BA1\u5212\u9879\u96C6\u4E0D\u9700\u8981\u8F93\u5165\uFF0C\u5176\u5B83\u90FD\u5F97\u8F93\u5165\u3002\r\n6.\u201C\u5206\u914D\u8D44\u6E90\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\uFF0C\u98DE\u673A\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u4E3A\u8BE5\u8D9F\u822A\u73ED\u5206\u914D\u5BF9\u5E94\u7F16\u53F7\u7684\u98DE\u673A\u3002\r\n7.\u201C\u542F\u52A8\u5F53\u524D\u822A\u73ED\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u8D77\u98DE\u65F6\u95F4\uFF0C\u70B9\u51FB\u5373\u53EF\u542F\u52A8\u3002\r\n8.\u201C\u7ED3\u675F\u5F53\u524D\u822A\u73ED\u201D\uFF1A\u7C7B\u6BD47\u3002\r\n9.\u201C\u67E5\u770B\u51B2\u7A81\u201D\uFF1A\r\n10.\u201C\u66F4\u6539\u8BA1\u5212\u9879\u96C6\u201D\uFF1A\u5728\u5DE6\u4FA7\u9009\u62E9\u4E00\u4E2A\u8BA1\u5212\u9879\u96C6\uFF08\u6587\u4EF6\uFF09\uFF0C\u70B9\u51FB\u5373\u53EF\u3002\r\n11.\u201C\u68C0\u67E5\u77DB\u76FE\u201D\uFF1A\u67E5\u770B\u662F\u5426\u5B58\u5728\u8D44\u6E90\u62A2\u5360\u77DB\u76FE\u3002\r\n12.\u201C\u524D\u5E8F\u8BA1\u5212\u9879\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\uFF0C\u98DE\u673A\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\uFF0C\u4EE5\u6B64\u641C\u7D22\u8BA1\u5212\u9879\u96C6\u5408\u4E2D\u4E0E\u8F93\u5165\u822A\u73ED\u4F7F\u7528\u540C\u4E00\u8D44\u6E90\u4E14\u65F6\u95F4\u5728\u524D\u9762\u7684\u8BA1\u5212\u9879\u3002\r\n13.\u201C\u7BA1\u7406\u8D44\u6E90\u201D\uFF1A\u53EF\u589E\u52A0\uFF08\u5220\u9664\u3001\u4FEE\u6539\uFF09\u5F53\u524D\u8BA1\u5212\u9879\u96C6\u4E2D\u7684\u8D44\u6E90\u3002\r\n14.\u201C\u7BA1\u7406\u4F4D\u7F6E\u201D\uFF1A\u540C12.");
+		textArea.setText(" \u6CE8\uFF1A1.\u201C\u6240\u6709\u822A\u73ED\u8BA1\u5212\u201D\uFF1A\u67E5\u770B\u5F53\u524D\u8BA1\u5212\u96C6\u4E2D\u7684\u6240\u6709\u822A\u73ED\u8BA1\u5212\u3002\r\n2.\u201C\u5F53\u524D\u4F4D\u7F6E\u822A\u73ED\u201D\uFF1A\u53EA\u9700\u5728\u8D77\u98DE\u673A\u573A\u5904\u8F93\u5165\u4F4D\u7F6E\uFF0C\u5C31\u53EF\u67E5\u770B\u8BE5\u4F4D\u7F6E\u7684\u822A\u73ED\u8868\u3002\r\n3.\u201C\u5F53\u524D\u8D44\u6E90\u822A\u73ED\u201D\uFF1A\u8F93\u5165\u5BF9\u5E94\u7684\u98DE\u673A\u7F16\u53F7\uFF0C\u5373\u53EF\u67E5\u770B\u8BE5\u98DE\u673A\u7684\u4F7F\u7528\u60C5\u51B5\u3002\r\n4.\u201C\u5F53\u524D\u822A\u73ED\u72B6\u6001\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u67E5\u770B\u8BE5\u822A\u73ED\u5F53\u524D\u72B6\u6001\u3002\r\n5.\u201C\u65B0\u589E\u822A\u73ED\u201D\uFF1A\u9664\u8BA1\u5212\u9879\u96C6\u4E0D\u9700\u8981\u8F93\u5165\uFF0C\u5176\u5B83\u90FD\u5F97\u8F93\u5165\u3002\r\n6.\u201C\u5206\u914D\u8D44\u6E90\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\uFF0C\u98DE\u673A\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u4E3A\u8BE5\u8D9F\u822A\u73ED\u5206\u914D\u5BF9\u5E94\u7F16\u53F7\u7684\u98DE\u673A\u3002\r\n7.\u201C\u542F\u52A8\u5F53\u524D\u822A\u73ED\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u8D77\u98DE\u65F6\u95F4\uFF0C\u70B9\u51FB\u5373\u53EF\u542F\u52A8\u3002\r\n8.\u201C\u7ED3\u675F\u5F53\u524D\u822A\u73ED\u201D\uFF1A\u7C7B\u6BD47\u3002\r\n9.\u201C\u67E5\u770B\u51B2\u7A81\u201D\uFF1A\r\n10.\u201C\u66F4\u6539\u8BA1\u5212\u9879\u96C6\u201D\uFF1A\u5728\u5DE6\u4FA7\u9009\u62E9\u4E00\u4E2A\u8BA1\u5212\u9879\u96C6\uFF08\u6587\u4EF6\uFF09\uFF0C\u70B9\u51FB\u5373\u53EF\u3002\r\n11.\u201C\u68C0\u67E5\u77DB\u76FE\u201D\uFF1A\u67E5\u770B\u662F\u5426\u5B58\u5728\u8D44\u6E90\u62A2\u5360\u77DB\u76FE\u3002\r\n12.\u201C\u524D\u5E8F\u8BA1\u5212\u9879\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\uFF0C\u98DE\u673A\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\uFF0C\u4EE5\u6B64\u641C\u7D22\u8BA1\u5212\u9879\u96C6\u5408\u4E2D\u4E0E\u8F93\u5165\u822A\u73ED\u4F7F\u7528\u540C\u4E00\u8D44\u6E90\u4E14\u65F6\u95F4\u5728\u524D\u9762\u7684\u8BA1\u5212\u9879\u3002\r\n13.\u201C\u7BA1\u7406\u8D44\u6E90\u201D\uFF1A\u53EF\u589E\u52A0\uFF08\u5220\u9664\u3001\u4FEE\u6539\uFF09\u5F53\u524D\u8BA1\u5212\u9879\u96C6\u4E2D\u7684\u8D44\u6E90\u3002\r\n14.\u201C\u7BA1\u7406\u4F4D\u7F6E\u201D\uFF1A\u540C12.\r\n15.\u201D\u8BFB\u53D6\u65B0\u6587\u4EF6\u201D\uFF1A\u5728\u65B0\u6587\u4EF6\u5904\u8F93\u5165\u8981\u8BFB\u53D6\u7684\u6587\u4EF6\u8DEF\u5F84\uFF0C\u70B9\u51FB\u5373\u53EF\u4EE5\u8FD9\u4E2A\u6587\u4EF6\u4F5C\u4E3A\u65B0\u7684\u8BA1\u5212\u9879\u96C6\u5408\u3002");
 		
 		//检查矛盾
 		JButton btnNewButton_12 = new JButton("\u68C0\u67E5\u77DB\u76FE");
@@ -520,11 +545,11 @@ public class FlightScheduleApp {
 				for(FlightEntry ce:fe) {
 					pe.add(ce);
 				}
-				CheckResourceExclusiveConflict crec = new CheckResourceExclusiveConflict();
-				crec.checkResourceExclusiveConflict(pe);
+				PlanningEntryAPIs pea = new PlanningEntryAPIs();
+				pea.checkResourceExclusiveConflict(pe);
 			}
 		});
-		btnNewButton_12.setBounds(4, 193, 93, 23);
+		btnNewButton_12.setBounds(4, 213, 93, 23);
 		frame.getContentPane().add(btnNewButton_12);
 		
 		//获取前序计划
@@ -537,15 +562,21 @@ public class FlightScheduleApp {
 				for(FlightEntry flightEntry:fc) {
 			    	if(flightEntry.getFlightnumber().equals(flightNumber)&&flightEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
 			    		flag = 1;
-			    		FindPreEntryPerResource fpepr = new FindPreEntryPerResource();
+			    		PlanningEntryAPIs pea = new PlanningEntryAPIs();
 			    		int size = fc.getFlightEntry().size();
 			    		List<PlanningEntry> pe = new ArrayList<PlanningEntry>();
 			    		for(int i = 0;i<size;i++) {
 			    			pe.add(fc.getFlightEntry().get(i));
 			    		}
-			    		FlightEntry fle = (FlightEntry)fpepr.findPreEntryPerResource(textField_1.getText(),flightEntry,pe);
+			    		Set<Flight> sf = fc.getResources();
+			    		Resource re = null;
+			    		for(Flight flight:sf) {
+			    			if(flight.getNumbering().equals(textField_1.getText()))
+			    				re = flight;
+			    		}
+			    		FlightEntry fle = (FlightEntry)pea.findPreEntryPerResource(re,flightEntry,pe);
 			    		if(fle != null)
-			    		    JOptionPane.showMessageDialog(null, "航班号："+fle.getFlightnumber()+"\n起止时间："+fle.getStartAndEndTime().getStartTime()+"-"+fle.getStartAndEndTime().getEndTime()+"\n起点-终点："+fle.getTe().getStart().getLocationName()+"-"+fle.getTe().getEnd().getLocationName()+"\n飞机编号："+fle.getResource()+"\n状态："+fle.getState());
+			    		    JOptionPane.showMessageDialog(null, "航班号："+fle.getFlightnumber()+"\n起止时间："+fle.getStartAndEndTime().getStartTime()+"-"+fle.getStartAndEndTime().getEndTime()+"\n起点-终点："+fle.getTe().getStart().getLocationName()+"-"+fle.getTe().getEnd().getLocationName()+"\n飞机编号："+fle.getResource().get(0).getResource()+"\n状态："+fle.getState());
 			    		else
 			    			JOptionPane.showMessageDialog(null, "不存在前序计划！");	
 			    	}
@@ -554,7 +585,7 @@ public class FlightScheduleApp {
 					JOptionPane.showMessageDialog(null, "输入的计划项不存在！");	
 			}
 		});
-		btnNewButton_13.setBounds(118, 193, 93, 23);
+		btnNewButton_13.setBounds(107, 213, 104, 23);
 		frame.getContentPane().add(btnNewButton_13);
 	}
 	

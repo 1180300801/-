@@ -3,6 +3,7 @@ package planningEntryAPIs;
 import java.util.List;
 
 import planningEntry.PlanningEntry;
+import resource.Resource;
 
 public interface PreEntryPerResourceAPI {
 
@@ -18,5 +19,5 @@ public interface PreEntryPerResourceAPI {
 	 * @return 针对某个资源 r和使用 r的某个计划项 e，从一组计划项中找出 e的前序 f，f也使用资源 r，f的执行时间在 e之前，
 	 * 且在 e和 f之间不存在使用资源 r的其他计划项。若不存在这样的计划项f，则返回 null。
 	 */
-	public PlanningEntry findPreEntryPerResource(String r,PlanningEntry e, List<PlanningEntry> entries);
+	public PlanningEntry findPreEntryPerResource(Resource r,PlanningEntry e, List<PlanningEntry> entries);
 }

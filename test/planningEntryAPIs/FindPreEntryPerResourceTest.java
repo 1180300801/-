@@ -5,12 +5,15 @@ import static org.junit.Assert.*;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 import org.junit.Test;
 
 import planningEntry.FlightEntry;
 import planningEntry.PlanningEntry;
 import planningEntryCollection.FlightCollection;
+import resource.Flight;
+import resource.Resource;
 
 public class FindPreEntryPerResourceTest {
 
@@ -35,8 +38,14 @@ public class FindPreEntryPerResourceTest {
 				pe2 = fe;
 			lp.add(fe);
 		}
-		assertEquals(null,pra.findPreEntryPerResource("B6863",pe1,lp));
-		assertEquals(pe1,pra.findPreEntryPerResource("B6863",pe2,lp));
+		Set<Flight> lr = fc.getResources();
+		Resource re = null;
+		for(Flight flight :lr) {
+			if(flight.getNumbering().equals("B6863"))
+				re = flight;
+		}
+		assertEquals(null,pra.findPreEntryPerResource(re,pe1,lp));
+		assertEquals(pe1,pra.findPreEntryPerResource(re,pe2,lp));
 	}
 
 }

@@ -12,6 +12,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G0374
+{
+DepartureStation:Nanning
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Urumuqi
+DepatureTime:2020-05-18 20:48
+ArrivalTime:2020-05-18 01:16
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G0374
 {
 DepartureStation:Nanning
@@ -19,6 +33,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Urumuqi
 DepatureTime:2020-05-08 20:48
 ArrivalTime:2020-05-09 01:16
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G0374
+{
+DepartureStation:Nanning
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Urumuqi
+DepatureTime:2020-05-23 20:48
+ArrivalTime:2020-05-23 01:16
 Carriage:N5375
 {
 Type:A
@@ -40,6 +68,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G0374
+{
+DepartureStation:Nanning
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Urumuqi
+DepatureTime:2020-05-26 20:48
+ArrivalTime:2020-05-26 01:16
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G0644
 {
 DepartureStation:Jinan
@@ -47,6 +89,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-01 00:04
 ArrivalTime:2020-05-01 03:51
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-16 00:04
+ArrivalTime:2020-05-16 03:51
 Carriage:N9493
 {
 Type:A
@@ -68,6 +124,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-17 00:04
+ArrivalTime:2020-05-17 03:51
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G0644
 {
 DepartureStation:Jinan
@@ -75,6 +145,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-03 00:04
 ArrivalTime:2020-05-03 03:51
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-18 00:04
+ArrivalTime:2020-05-18 03:51
 Carriage:B4007
 {
 Type:A
@@ -96,6 +180,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-20 00:04
+ArrivalTime:2020-05-20 03:51
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G0644
 {
 DepartureStation:Jinan
@@ -103,6 +201,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-06 00:04
 ArrivalTime:2020-05-06 03:51
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-21 00:04
+ArrivalTime:2020-05-21 03:51
 Carriage:B9273
 {
 Type:A
@@ -124,6 +236,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-22 00:04
+ArrivalTime:2020-05-22 03:51
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G0644
 {
 DepartureStation:Jinan
@@ -131,6 +257,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-08 00:04
 ArrivalTime:2020-05-08 03:51
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-23 00:04
+ArrivalTime:2020-05-23 03:51
 Carriage:N6776
 {
 Type:A
@@ -152,6 +292,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-24 00:04
+ArrivalTime:2020-05-24 03:51
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G0644
 {
 DepartureStation:Jinan
@@ -159,6 +313,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-10 00:04
 ArrivalTime:2020-05-10 03:51
+Carriage:N9102
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-25 00:04
+ArrivalTime:2020-05-25 03:51
 Carriage:N9102
 {
 Type:A
@@ -180,6 +348,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-26 00:04
+ArrivalTime:2020-05-26 03:51
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G0644
 {
 DepartureStation:Jinan
@@ -187,6 +369,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-13 00:04
 ArrivalTime:2020-05-13 03:51
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G0644
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-28 00:04
+ArrivalTime:2020-05-28 03:51
 Carriage:B7408
 {
 Type:A
@@ -208,6 +404,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G1512
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Weihai
+DepatureTime:2020-05-30 10:30
+ArrivalTime:2020-05-30 12:05
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G754
 {
 DepartureStation:Urumuqi
@@ -215,6 +425,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-09 01:59
 ArrivalTime:2020-05-09 05:15
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G754
+{
+DepartureStation:Urumuqi
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-24 01:59
+ArrivalTime:2020-05-24 05:15
 Carriage:B6043
 {
 Type:A
@@ -236,6 +460,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-17 01:50
+ArrivalTime:2020-05-17 04:12
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G04
 {
 DepartureStation:Tianjin
@@ -243,6 +481,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-03 01:50
 ArrivalTime:2020-05-03 04:12
+Carriage:N1236
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-18 01:50
+ArrivalTime:2020-05-18 04:12
 Carriage:N1236
 {
 Type:A
@@ -264,6 +516,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-20 01:50
+ArrivalTime:2020-05-20 04:12
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G04
 {
 DepartureStation:Tianjin
@@ -271,6 +537,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-07 01:50
 ArrivalTime:2020-05-07 04:12
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-22 01:50
+ArrivalTime:2020-05-22 04:12
 Carriage:N9493
 {
 Type:A
@@ -292,6 +572,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-23 01:50
+ArrivalTime:2020-05-23 04:12
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G04
 {
 DepartureStation:Tianjin
@@ -299,6 +593,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-09 01:50
 ArrivalTime:2020-05-09 04:12
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-24 01:50
+ArrivalTime:2020-05-24 04:12
 Carriage:N6776
 {
 Type:A
@@ -320,6 +628,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-25 01:50
+ArrivalTime:2020-05-25 04:12
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G04
 {
 DepartureStation:Tianjin
@@ -327,6 +649,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-11 01:50
 ArrivalTime:2020-05-11 04:12
+Carriage:B5378
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G04
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-26 01:50
+ArrivalTime:2020-05-26 04:12
 Carriage:B5378
 {
 Type:A
@@ -348,6 +684,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G0420
+{
+DepartureStation:Macau
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xining
+DepatureTime:2020-05-26 11:50
+ArrivalTime:2020-05-26 12:59
+Carriage:N9102
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G0420
 {
 DepartureStation:Macau
@@ -355,6 +705,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xining
 DepatureTime:2020-05-14 11:50
 ArrivalTime:2020-05-14 12:59
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G0420
+{
+DepartureStation:Macau
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xining
+DepatureTime:2020-05-29 11:50
+ArrivalTime:2020-05-29 12:59
 Carriage:N9803
 {
 Type:A
@@ -376,6 +740,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-16 03:25
+ArrivalTime:2020-05-16 09:15
+Carriage:N5888
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G1909
 {
 DepartureStation:Shenyang
@@ -383,6 +761,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-02 03:25
 ArrivalTime:2020-05-02 09:15
+Carriage:B3898
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-17 03:25
+ArrivalTime:2020-05-17 09:15
 Carriage:B3898
 {
 Type:A
@@ -404,6 +796,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-18 03:25
+ArrivalTime:2020-05-18 09:15
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G1909
 {
 DepartureStation:Shenyang
@@ -411,6 +817,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-04 03:25
 ArrivalTime:2020-05-04 09:15
+Carriage:N9614
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-19 03:25
+ArrivalTime:2020-05-19 09:15
 Carriage:N9614
 {
 Type:A
@@ -432,6 +852,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-20 03:25
+ArrivalTime:2020-05-20 09:15
+Carriage:B6340
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G1909
 {
 DepartureStation:Shenyang
@@ -439,6 +873,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-06 03:25
 ArrivalTime:2020-05-06 09:15
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-21 03:25
+ArrivalTime:2020-05-21 09:15
 Carriage:B3380
 {
 Type:A
@@ -460,6 +908,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-22 03:25
+ArrivalTime:2020-05-22 09:15
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G1909
 {
 DepartureStation:Shenyang
@@ -467,6 +929,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-08 03:25
 ArrivalTime:2020-05-08 09:15
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-23 03:25
+ArrivalTime:2020-05-23 09:15
 Carriage:B7408
 {
 Type:A
@@ -488,6 +964,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-24 03:25
+ArrivalTime:2020-05-24 09:15
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G1909
 {
 DepartureStation:Shenyang
@@ -495,6 +985,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-10 03:25
 ArrivalTime:2020-05-10 09:15
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-25 03:25
+ArrivalTime:2020-05-25 09:15
 Carriage:N4993
 {
 Type:A
@@ -516,6 +1020,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-26 03:25
+ArrivalTime:2020-05-26 09:15
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G1909
 {
 DepartureStation:Shenyang
@@ -523,6 +1041,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-12 03:25
 ArrivalTime:2020-05-12 09:15
+Carriage:B6340
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-27 03:25
+ArrivalTime:2020-05-27 09:15
 Carriage:B6340
 {
 Type:A
@@ -544,6 +1076,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-28 03:25
+ArrivalTime:2020-05-28 09:15
+Carriage:N5617
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G1909
 {
 DepartureStation:Shenyang
@@ -551,6 +1097,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Tianjin
 DepatureTime:2020-05-14 03:25
 ArrivalTime:2020-05-14 09:15
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-29 03:25
+ArrivalTime:2020-05-29 09:15
 Carriage:N7932
 {
 Type:A
@@ -572,6 +1132,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G1909
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Tianjin
+DepatureTime:2020-05-30 03:25
+ArrivalTime:2020-05-30 09:15
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G3083
 {
 DepartureStation:Haikou
@@ -579,6 +1153,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Ningbo
 DepatureTime:2020-05-03 04:00
 ArrivalTime:2020-05-03 08:50
+Carriage:B1297
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G3083
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Ningbo
+DepatureTime:2020-05-18 04:00
+ArrivalTime:2020-05-18 08:50
 Carriage:B1297
 {
 Type:A
@@ -600,6 +1188,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G3083
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Ningbo
+DepatureTime:2020-05-21 04:00
+ArrivalTime:2020-05-21 08:50
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G276
 {
 DepartureStation:Guiyang
@@ -607,6 +1209,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-01 18:26
 ArrivalTime:2020-05-01 22:03
+Carriage:N0036
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G276
+{
+DepartureStation:Guiyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-16 18:26
+ArrivalTime:2020-05-16 22:03
 Carriage:N0036
 {
 Type:A
@@ -628,6 +1244,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G276
+{
+DepartureStation:Guiyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-28 18:26
+ArrivalTime:2020-05-28 22:03
+Carriage:N6723
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G29
 {
 DepartureStation:Guangzhou
@@ -635,6 +1265,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-01 05:55
 ArrivalTime:2020-05-01 07:18
+Carriage:N3244
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-16 05:55
+ArrivalTime:2020-05-16 07:18
 Carriage:N3244
 {
 Type:A
@@ -656,6 +1300,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-17 05:55
+ArrivalTime:2020-05-17 07:18
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G29
 {
 DepartureStation:Guangzhou
@@ -663,6 +1321,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-03 05:55
 ArrivalTime:2020-05-03 07:18
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-18 05:55
+ArrivalTime:2020-05-18 07:18
 Carriage:N1992
 {
 Type:A
@@ -684,6 +1356,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-19 05:55
+ArrivalTime:2020-05-19 07:18
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G29
 {
 DepartureStation:Guangzhou
@@ -691,6 +1377,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-05 05:55
 ArrivalTime:2020-05-05 07:18
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-20 05:55
+ArrivalTime:2020-05-20 07:18
 Carriage:B6802
 {
 Type:A
@@ -712,6 +1412,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-21 05:55
+ArrivalTime:2020-05-21 07:18
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G29
 {
 DepartureStation:Guangzhou
@@ -719,6 +1433,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-07 05:55
 ArrivalTime:2020-05-07 07:18
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-22 05:55
+ArrivalTime:2020-05-22 07:18
 Carriage:B6802
 {
 Type:A
@@ -740,6 +1468,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-23 05:55
+ArrivalTime:2020-05-23 07:18
+Carriage:B4979
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G29
 {
 DepartureStation:Guangzhou
@@ -747,6 +1489,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-09 05:55
 ArrivalTime:2020-05-09 07:18
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-24 05:55
+ArrivalTime:2020-05-24 07:18
 Carriage:B8843
 {
 Type:A
@@ -768,6 +1524,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-26 05:55
+ArrivalTime:2020-05-26 07:18
+Carriage:N9102
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G29
 {
 DepartureStation:Guangzhou
@@ -775,6 +1545,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-12 05:55
 ArrivalTime:2020-05-12 07:18
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-27 05:55
+ArrivalTime:2020-05-27 07:18
 Carriage:B1310
 {
 Type:A
@@ -796,6 +1580,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-28 05:55
+ArrivalTime:2020-05-28 07:18
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G29
 {
 DepartureStation:Guangzhou
@@ -803,6 +1601,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-14 05:55
 ArrivalTime:2020-05-14 07:18
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-29 05:55
+ArrivalTime:2020-05-29 07:18
 Carriage:N5375
 {
 Type:A
@@ -824,6 +1636,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G29
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-30 05:55
+ArrivalTime:2020-05-30 07:18
+Carriage:N9102
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G6145
 {
 DepartureStation:Guangzhou
@@ -831,6 +1657,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-02 06:56
 ArrivalTime:2020-05-02 12:31
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G6145
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-17 06:56
+ArrivalTime:2020-05-17 12:31
 Carriage:B7408
 {
 Type:A
@@ -852,6 +1692,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G6145
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-18 06:56
+ArrivalTime:2020-05-18 12:31
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G907
 {
 DepartureStation:Chongqing
@@ -859,6 +1713,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-09 18:52
 ArrivalTime:2020-05-09 22:30
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G907
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-24 18:52
+ArrivalTime:2020-05-24 22:30
 Carriage:N1992
 {
 Type:A
@@ -880,6 +1748,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-16 08:11
+ArrivalTime:2020-05-16 11:16
+Carriage:N9820
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G7079
 {
 DepartureStation:Shanghai
@@ -887,6 +1769,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanning
 DepatureTime:2020-05-03 08:11
 ArrivalTime:2020-05-03 11:16
+Carriage:B3196
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-18 08:11
+ArrivalTime:2020-05-18 11:16
 Carriage:B3196
 {
 Type:A
@@ -908,6 +1804,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-21 08:11
+ArrivalTime:2020-05-21 11:16
+Carriage:N9649
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G7079
 {
 DepartureStation:Shanghai
@@ -915,6 +1825,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanning
 DepatureTime:2020-05-07 08:11
 ArrivalTime:2020-05-07 11:16
+Carriage:N9614
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-22 08:11
+ArrivalTime:2020-05-22 11:16
 Carriage:N9614
 {
 Type:A
@@ -936,6 +1860,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-23 08:11
+ArrivalTime:2020-05-23 11:16
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G7079
 {
 DepartureStation:Shanghai
@@ -943,6 +1881,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanning
 DepatureTime:2020-05-09 08:11
 ArrivalTime:2020-05-09 11:16
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G7079
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-24 08:11
+ArrivalTime:2020-05-24 11:16
 Carriage:N9493
 {
 Type:A
@@ -964,6 +1916,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G875
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-21 06:05
+ArrivalTime:2020-05-21 09:01
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G28
 {
 DepartureStation:Xiamen
@@ -971,6 +1937,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-03 08:12
 ArrivalTime:2020-05-03 10:15
+Carriage:N5617
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-18 08:12
+ArrivalTime:2020-05-18 10:15
 Carriage:N5617
 {
 Type:A
@@ -992,6 +1972,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-20 08:12
+ArrivalTime:2020-05-20 10:15
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G28
 {
 DepartureStation:Xiamen
@@ -999,6 +1993,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-06 08:12
 ArrivalTime:2020-05-06 10:15
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-21 08:12
+ArrivalTime:2020-05-21 10:15
 Carriage:N3830
 {
 Type:A
@@ -1020,6 +2028,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-22 08:12
+ArrivalTime:2020-05-22 10:15
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G28
 {
 DepartureStation:Xiamen
@@ -1027,6 +2049,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-09 08:12
 ArrivalTime:2020-05-09 10:15
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-24 08:12
+ArrivalTime:2020-05-24 10:15
 Carriage:B5083
 {
 Type:A
@@ -1048,6 +2084,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-27 08:12
+ArrivalTime:2020-05-27 10:15
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G28
 {
 DepartureStation:Xiamen
@@ -1055,6 +2105,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-13 08:12
 ArrivalTime:2020-05-13 10:15
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-28 08:12
+ArrivalTime:2020-05-28 10:15
 Carriage:N5375
 {
 Type:A
@@ -1076,6 +2140,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-29 08:12
+ArrivalTime:2020-05-29 10:15
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G28
 {
 DepartureStation:Xiamen
@@ -1083,6 +2161,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-15 08:12
 ArrivalTime:2020-05-15 10:15
+Carriage:B9035
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G28
+{
+DepartureStation:Xiamen
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-30 08:12
+ArrivalTime:2020-05-30 10:15
 Carriage:B9035
 {
 Type:A
@@ -1104,6 +2196,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-16 07:08
+ArrivalTime:2020-05-16 09:26
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G3664
 {
 DepartureStation:Changsha
@@ -1111,6 +2217,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Yantai
 DepatureTime:2020-05-04 07:08
 ArrivalTime:2020-05-04 09:26
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-19 07:08
+ArrivalTime:2020-05-19 09:26
 Carriage:N1992
 {
 Type:A
@@ -1132,6 +2252,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-20 07:08
+ArrivalTime:2020-05-20 09:26
+Carriage:N9102
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G3664
 {
 DepartureStation:Changsha
@@ -1139,6 +2273,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Yantai
 DepatureTime:2020-05-07 07:08
 ArrivalTime:2020-05-07 09:26
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-22 07:08
+ArrivalTime:2020-05-22 09:26
 Carriage:N3522
 {
 Type:A
@@ -1160,6 +2308,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-23 07:08
+ArrivalTime:2020-05-23 09:26
+Carriage:B1297
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G3664
 {
 DepartureStation:Changsha
@@ -1167,6 +2329,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Yantai
 DepatureTime:2020-05-11 07:08
 ArrivalTime:2020-05-11 09:26
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-26 07:08
+ArrivalTime:2020-05-26 09:26
 Carriage:B0741
 {
 Type:A
@@ -1188,6 +2364,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-27 07:08
+ArrivalTime:2020-05-27 09:26
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G3664
 {
 DepartureStation:Changsha
@@ -1195,6 +2385,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Yantai
 DepatureTime:2020-05-14 07:08
 ArrivalTime:2020-05-14 09:26
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G3664
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Yantai
+DepatureTime:2020-05-29 07:08
+ArrivalTime:2020-05-29 09:26
 Carriage:B6043
 {
 Type:A
@@ -1216,6 +2420,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-16 08:51
+ArrivalTime:2020-05-16 12:41
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G4209
 {
 DepartureStation:Shanghai
@@ -1223,6 +2441,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-02 08:51
 ArrivalTime:2020-05-02 12:41
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-17 08:51
+ArrivalTime:2020-05-17 12:41
 Carriage:N9803
 {
 Type:A
@@ -1244,6 +2476,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-19 08:51
+ArrivalTime:2020-05-19 12:41
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G4209
 {
 DepartureStation:Shanghai
@@ -1251,6 +2497,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-05 08:51
 ArrivalTime:2020-05-05 12:41
+Carriage:N1236
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-20 08:51
+ArrivalTime:2020-05-20 12:41
 Carriage:N1236
 {
 Type:A
@@ -1272,6 +2532,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-21 08:51
+ArrivalTime:2020-05-21 12:41
+Carriage:N5617
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G4209
 {
 DepartureStation:Shanghai
@@ -1279,6 +2553,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-07 08:51
 ArrivalTime:2020-05-07 12:41
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-22 08:51
+ArrivalTime:2020-05-22 12:41
 Carriage:B6043
 {
 Type:A
@@ -1300,6 +2588,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-24 08:51
+ArrivalTime:2020-05-24 12:41
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G4209
 {
 DepartureStation:Shanghai
@@ -1307,6 +2609,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-10 08:51
 ArrivalTime:2020-05-10 12:41
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-25 08:51
+ArrivalTime:2020-05-25 12:41
 Carriage:B2749
 {
 Type:A
@@ -1328,6 +2644,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-26 08:51
+ArrivalTime:2020-05-26 12:41
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G4209
 {
 DepartureStation:Shanghai
@@ -1335,6 +2665,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-12 08:51
 ArrivalTime:2020-05-12 12:41
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-27 08:51
+ArrivalTime:2020-05-27 12:41
 Carriage:B2581
 {
 Type:A
@@ -1356,6 +2700,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-28 08:51
+ArrivalTime:2020-05-28 12:41
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G4209
 {
 DepartureStation:Shanghai
@@ -1363,6 +2721,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shenyang
 DepatureTime:2020-05-14 08:51
 ArrivalTime:2020-05-14 12:41
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-29 08:51
+ArrivalTime:2020-05-29 12:41
 Carriage:N5375
 {
 Type:A
@@ -1384,6 +2756,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G4209
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shenyang
+DepatureTime:2020-05-30 08:51
+ArrivalTime:2020-05-30 12:41
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G4186
 {
 DepartureStation:Taipei
@@ -1391,6 +2777,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Weihai
 DepatureTime:2020-05-13 15:53
 ArrivalTime:2020-05-13 17:55
+Carriage:B0458
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G4186
+{
+DepartureStation:Taipei
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Weihai
+DepatureTime:2020-05-28 15:53
+ArrivalTime:2020-05-28 17:55
 Carriage:B0458
 {
 Type:A
@@ -1412,6 +2812,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G908
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-17 22:51
+ArrivalTime:2020-05-17 01:07
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G908
 {
 DepartureStation:Tianjin
@@ -1419,6 +2833,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Haikou
 DepatureTime:2020-05-14 22:51
 ArrivalTime:2020-05-15 01:07
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G908
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Haikou
+DepatureTime:2020-05-29 22:51
+ArrivalTime:2020-05-29 01:07
 Carriage:B2749
 {
 Type:A
@@ -1440,6 +2868,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G94
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-17 23:57
+ArrivalTime:2020-05-17 01:26
+Carriage:N9649
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G94
 {
 DepartureStation:Guangzhou
@@ -1447,6 +2889,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanchang
 DepatureTime:2020-05-07 23:57
 ArrivalTime:2020-05-08 01:26
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G94
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-22 23:57
+ArrivalTime:2020-05-22 01:26
 Carriage:B2230
 {
 Type:A
@@ -1468,6 +2924,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G94
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-25 23:57
+ArrivalTime:2020-05-25 01:26
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G94
 {
 DepartureStation:Guangzhou
@@ -1475,6 +2945,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanchang
 DepatureTime:2020-05-15 23:57
 ArrivalTime:2020-05-16 01:26
+Carriage:B9035
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G94
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-30 23:57
+ArrivalTime:2020-05-30 01:26
 Carriage:B9035
 {
 Type:A
@@ -1496,6 +2980,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-16 02:39
+ArrivalTime:2020-05-16 08:18
+Carriage:B6340
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G947
 {
 DepartureStation:Nanchang
@@ -1503,6 +3001,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-02 02:39
 ArrivalTime:2020-05-02 08:18
+Carriage:N9614
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-17 02:39
+ArrivalTime:2020-05-17 08:18
 Carriage:N9614
 {
 Type:A
@@ -1524,6 +3036,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-19 02:39
+ArrivalTime:2020-05-19 08:18
+Carriage:N0036
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G947
 {
 DepartureStation:Nanchang
@@ -1531,6 +3057,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-05 02:39
 ArrivalTime:2020-05-05 08:18
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-20 02:39
+ArrivalTime:2020-05-20 08:18
 Carriage:B6802
 {
 Type:A
@@ -1552,6 +3092,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-23 02:39
+ArrivalTime:2020-05-23 08:18
+Carriage:B5378
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G947
 {
 DepartureStation:Nanchang
@@ -1559,6 +3113,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-09 02:39
 ArrivalTime:2020-05-09 08:18
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-24 02:39
+ArrivalTime:2020-05-24 08:18
 Carriage:N6776
 {
 Type:A
@@ -1580,6 +3148,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-25 02:39
+ArrivalTime:2020-05-25 08:18
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G947
 {
 DepartureStation:Nanchang
@@ -1587,6 +3169,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-11 02:39
 ArrivalTime:2020-05-11 08:18
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-26 02:39
+ArrivalTime:2020-05-26 08:18
 Carriage:N3616
 {
 Type:A
@@ -1608,6 +3204,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-27 02:39
+ArrivalTime:2020-05-27 08:18
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G947
 {
 DepartureStation:Nanchang
@@ -1615,6 +3225,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Fuzhou
 DepatureTime:2020-05-13 02:39
 ArrivalTime:2020-05-13 08:18
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-28 02:39
+ArrivalTime:2020-05-28 08:18
 Carriage:N3830
 {
 Type:A
@@ -1636,6 +3260,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G947
+{
+DepartureStation:Nanchang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Fuzhou
+DepatureTime:2020-05-29 02:39
+ArrivalTime:2020-05-29 08:18
+Carriage:N3244
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G1098
 {
 DepartureStation:Ningbo
@@ -1643,6 +3281,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanning
 DepatureTime:2020-05-11 15:44
 ArrivalTime:2020-05-11 18:37
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G1098
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanning
+DepatureTime:2020-05-26 15:44
+ArrivalTime:2020-05-26 18:37
 Carriage:B0741
 {
 Type:A
@@ -1664,6 +3316,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G401
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanjing
+DepatureTime:2020-05-18 09:22
+ArrivalTime:2020-05-18 11:50
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G98
 {
 DepartureStation:Changchun
@@ -1671,6 +3337,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-01 23:39
 ArrivalTime:2020-05-02 03:13
+Carriage:N5888
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G98
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-16 23:39
+ArrivalTime:2020-05-16 03:13
 Carriage:N5888
 {
 Type:A
@@ -1692,6 +3372,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G98
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-19 23:39
+ArrivalTime:2020-05-19 03:13
+Carriage:N5617
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G98
 {
 DepartureStation:Changchun
@@ -1699,6 +3393,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-09 23:39
 ArrivalTime:2020-05-10 03:13
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G98
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-24 23:39
+ArrivalTime:2020-05-24 03:13
 Carriage:N9452
 {
 Type:A
@@ -1720,6 +3428,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G98
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-26 23:39
+ArrivalTime:2020-05-26 03:13
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G0263
 {
 DepartureStation:Chongqing
@@ -1727,6 +3449,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Wuhan
 DepatureTime:2020-05-01 10:54
 ArrivalTime:2020-05-01 14:55
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-16 10:54
+ArrivalTime:2020-05-16 14:55
 Carriage:N6776
 {
 Type:A
@@ -1748,6 +3484,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-19 10:54
+ArrivalTime:2020-05-19 14:55
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G0263
 {
 DepartureStation:Chongqing
@@ -1755,6 +3505,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Wuhan
 DepatureTime:2020-05-07 10:54
 ArrivalTime:2020-05-07 14:55
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-22 10:54
+ArrivalTime:2020-05-22 14:55
 Carriage:N1992
 {
 Type:A
@@ -1776,6 +3540,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-25 10:54
+ArrivalTime:2020-05-25 14:55
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G0263
 {
 DepartureStation:Chongqing
@@ -1783,6 +3561,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Wuhan
 DepatureTime:2020-05-13 10:54
 ArrivalTime:2020-05-13 14:55
+Carriage:N7714
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-28 10:54
+ArrivalTime:2020-05-28 14:55
 Carriage:N7714
 {
 Type:A
@@ -1804,6 +3596,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G0263
+{
+DepartureStation:Chongqing
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-29 10:54
+ArrivalTime:2020-05-29 14:55
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G139
 {
 DepartureStation:Kunming
@@ -1811,6 +3617,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-01 02:41
 ArrivalTime:2020-05-01 06:07
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-16 02:41
+ArrivalTime:2020-05-16 06:07
 Carriage:B4892
 {
 Type:A
@@ -1832,6 +3652,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-17 02:41
+ArrivalTime:2020-05-17 06:07
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G139
 {
 DepartureStation:Kunming
@@ -1839,6 +3673,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-03 02:41
 ArrivalTime:2020-05-03 06:07
+Carriage:N9649
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-18 02:41
+ArrivalTime:2020-05-18 06:07
 Carriage:N9649
 {
 Type:A
@@ -1860,6 +3708,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-19 02:41
+ArrivalTime:2020-05-19 06:07
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G139
 {
 DepartureStation:Kunming
@@ -1867,6 +3729,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-05 02:41
 ArrivalTime:2020-05-05 06:07
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-20 02:41
+ArrivalTime:2020-05-20 06:07
 Carriage:N9803
 {
 Type:A
@@ -1888,6 +3764,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-21 02:41
+ArrivalTime:2020-05-21 06:07
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G139
 {
 DepartureStation:Kunming
@@ -1895,6 +3785,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-07 02:41
 ArrivalTime:2020-05-07 06:07
+Carriage:B5378
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-22 02:41
+ArrivalTime:2020-05-22 06:07
 Carriage:B5378
 {
 Type:A
@@ -1916,6 +3820,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-23 02:41
+ArrivalTime:2020-05-23 06:07
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G139
 {
 DepartureStation:Kunming
@@ -1923,6 +3841,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-09 02:41
 ArrivalTime:2020-05-09 06:07
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-24 02:41
+ArrivalTime:2020-05-24 06:07
 Carriage:B6802
 {
 Type:A
@@ -1944,6 +3876,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-25 02:41
+ArrivalTime:2020-05-25 06:07
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G139
 {
 DepartureStation:Kunming
@@ -1951,6 +3897,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-11 02:41
 ArrivalTime:2020-05-11 06:07
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-26 02:41
+ArrivalTime:2020-05-26 06:07
 Carriage:B2749
 {
 Type:A
@@ -1972,6 +3932,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-27 02:41
+ArrivalTime:2020-05-27 06:07
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G139
 {
 DepartureStation:Kunming
@@ -1979,6 +3953,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-13 02:41
 ArrivalTime:2020-05-13 06:07
+Carriage:N6723
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-28 02:41
+ArrivalTime:2020-05-28 06:07
 Carriage:N6723
 {
 Type:A
@@ -2000,6 +3988,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-29 02:41
+ArrivalTime:2020-05-29 06:07
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G139
 {
 DepartureStation:Kunming
@@ -2007,6 +4009,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-15 02:41
 ArrivalTime:2020-05-15 06:07
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G139
+{
+DepartureStation:Kunming
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-30 02:41
+ArrivalTime:2020-05-30 06:07
 Carriage:N7932
 {
 Type:A
@@ -2028,6 +4044,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-20 14:04
+ArrivalTime:2020-05-20 16:24
+Carriage:B2205
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G273
 {
 DepartureStation:Changchun
@@ -2035,6 +4065,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taiyuan
 DepatureTime:2020-05-07 14:04
 ArrivalTime:2020-05-07 16:24
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-22 14:04
+ArrivalTime:2020-05-22 16:24
 Carriage:B1310
 {
 Type:A
@@ -2056,6 +4100,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-23 14:04
+ArrivalTime:2020-05-23 16:24
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G273
 {
 DepartureStation:Changchun
@@ -2063,6 +4121,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taiyuan
 DepatureTime:2020-05-12 14:04
 ArrivalTime:2020-05-12 16:24
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-27 14:04
+ArrivalTime:2020-05-27 16:24
 Carriage:N1543
 {
 Type:A
@@ -2084,6 +4156,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-28 14:04
+ArrivalTime:2020-05-28 16:24
+Carriage:N8363
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G273
 {
 DepartureStation:Changchun
@@ -2091,6 +4177,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taiyuan
 DepatureTime:2020-05-15 14:04
 ArrivalTime:2020-05-15 16:24
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G273
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taiyuan
+DepatureTime:2020-05-30 14:04
+ArrivalTime:2020-05-30 16:24
 Carriage:N4993
 {
 Type:A
@@ -2112,6 +4212,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-16 12:59
+ArrivalTime:2020-05-16 14:19
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G85
 {
 DepartureStation:Weihai
@@ -2119,6 +4233,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-02 12:59
 ArrivalTime:2020-05-02 14:19
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-17 12:59
+ArrivalTime:2020-05-17 14:19
 Carriage:B4892
 {
 Type:A
@@ -2140,6 +4268,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-18 12:59
+ArrivalTime:2020-05-18 14:19
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G85
 {
 DepartureStation:Weihai
@@ -2147,6 +4289,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-04 12:59
 ArrivalTime:2020-05-04 14:19
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-19 12:59
+ArrivalTime:2020-05-19 14:19
 Carriage:B5083
 {
 Type:A
@@ -2168,6 +4324,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-20 12:59
+ArrivalTime:2020-05-20 14:19
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G85
 {
 DepartureStation:Weihai
@@ -2175,6 +4345,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-06 12:59
 ArrivalTime:2020-05-06 14:19
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-21 12:59
+ArrivalTime:2020-05-21 14:19
 Carriage:B2749
 {
 Type:A
@@ -2196,6 +4380,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-22 12:59
+ArrivalTime:2020-05-22 14:19
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G85
 {
 DepartureStation:Weihai
@@ -2203,6 +4401,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-08 12:59
 ArrivalTime:2020-05-08 14:19
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-23 12:59
+ArrivalTime:2020-05-23 14:19
 Carriage:N1992
 {
 Type:A
@@ -2224,6 +4436,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-24 12:59
+ArrivalTime:2020-05-24 14:19
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G85
 {
 DepartureStation:Weihai
@@ -2231,6 +4457,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-10 12:59
 ArrivalTime:2020-05-10 14:19
+Carriage:B0458
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-25 12:59
+ArrivalTime:2020-05-25 14:19
 Carriage:B0458
 {
 Type:A
@@ -2252,6 +4492,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-26 12:59
+ArrivalTime:2020-05-26 14:19
+Carriage:N7714
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G85
 {
 DepartureStation:Weihai
@@ -2259,6 +4513,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-12 12:59
 ArrivalTime:2020-05-12 14:19
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-27 12:59
+ArrivalTime:2020-05-27 14:19
 Carriage:B6043
 {
 Type:A
@@ -2280,6 +4548,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-28 12:59
+ArrivalTime:2020-05-28 14:19
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G85
 {
 DepartureStation:Weihai
@@ -2287,6 +4569,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shanghai
 DepatureTime:2020-05-14 12:59
 ArrivalTime:2020-05-14 14:19
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-29 12:59
+ArrivalTime:2020-05-29 14:19
 Carriage:B1310
 {
 Type:A
@@ -2308,6 +4604,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G85
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shanghai
+DepatureTime:2020-05-30 12:59
+ArrivalTime:2020-05-30 14:19
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G059
 {
 DepartureStation:Wuhan
@@ -2315,6 +4625,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-02 04:08
 ArrivalTime:2020-05-02 05:46
+Carriage:N8363
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-17 04:08
+ArrivalTime:2020-05-17 05:46
 Carriage:N8363
 {
 Type:A
@@ -2336,6 +4660,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-18 04:08
+ArrivalTime:2020-05-18 05:46
+Carriage:N8363
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G059
 {
 DepartureStation:Wuhan
@@ -2343,6 +4681,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-04 04:08
 ArrivalTime:2020-05-04 05:46
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-19 04:08
+ArrivalTime:2020-05-19 05:46
 Carriage:N3522
 {
 Type:A
@@ -2364,6 +4716,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-20 04:08
+ArrivalTime:2020-05-20 05:46
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G059
 {
 DepartureStation:Wuhan
@@ -2371,6 +4737,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-06 04:08
 ArrivalTime:2020-05-06 05:46
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-21 04:08
+ArrivalTime:2020-05-21 05:46
 Carriage:B2581
 {
 Type:A
@@ -2392,6 +4772,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-22 04:08
+ArrivalTime:2020-05-22 05:46
+Carriage:B9035
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G059
 {
 DepartureStation:Wuhan
@@ -2399,6 +4793,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-08 04:08
 ArrivalTime:2020-05-08 05:46
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-23 04:08
+ArrivalTime:2020-05-23 05:46
 Carriage:N3616
 {
 Type:A
@@ -2420,6 +4828,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-24 04:08
+ArrivalTime:2020-05-24 05:46
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G059
 {
 DepartureStation:Wuhan
@@ -2427,6 +4849,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-10 04:08
 ArrivalTime:2020-05-10 05:46
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-25 04:08
+ArrivalTime:2020-05-25 05:46
 Carriage:N9493
 {
 Type:A
@@ -2448,6 +4884,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-27 04:08
+ArrivalTime:2020-05-27 05:46
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G059
 {
 DepartureStation:Wuhan
@@ -2455,6 +4905,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Xian
 DepatureTime:2020-05-13 04:08
 ArrivalTime:2020-05-13 05:46
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-28 04:08
+ArrivalTime:2020-05-28 05:46
 Carriage:B9273
 {
 Type:A
@@ -2476,6 +4940,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G059
+{
+DepartureStation:Wuhan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Xian
+DepatureTime:2020-05-30 04:08
+ArrivalTime:2020-05-30 05:46
+Carriage:N8363
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G6171
 {
 DepartureStation:Ningbo
@@ -2483,6 +4961,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-01 04:35
 ArrivalTime:2020-05-01 06:25
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-16 04:35
+ArrivalTime:2020-05-16 06:25
 Carriage:B7408
 {
 Type:A
@@ -2504,6 +4996,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-17 04:35
+ArrivalTime:2020-05-17 06:25
+Carriage:B1297
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G6171
 {
 DepartureStation:Ningbo
@@ -2511,6 +5017,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-03 04:35
 ArrivalTime:2020-05-03 06:25
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-18 04:35
+ArrivalTime:2020-05-18 06:25
 Carriage:N7802
 {
 Type:A
@@ -2532,6 +5052,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-19 04:35
+ArrivalTime:2020-05-19 06:25
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G6171
 {
 DepartureStation:Ningbo
@@ -2539,6 +5073,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-05 04:35
 ArrivalTime:2020-05-05 06:25
+Carriage:B1297
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-20 04:35
+ArrivalTime:2020-05-20 06:25
 Carriage:B1297
 {
 Type:A
@@ -2560,6 +5108,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-21 04:35
+ArrivalTime:2020-05-21 06:25
+Carriage:N9614
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G6171
 {
 DepartureStation:Ningbo
@@ -2567,6 +5129,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-07 04:35
 ArrivalTime:2020-05-07 06:25
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-22 04:35
+ArrivalTime:2020-05-22 06:25
 Carriage:N9493
 {
 Type:A
@@ -2588,6 +5164,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-23 04:35
+ArrivalTime:2020-05-23 06:25
+Carriage:N9649
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G6171
 {
 DepartureStation:Ningbo
@@ -2595,6 +5185,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-09 04:35
 ArrivalTime:2020-05-09 06:25
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-24 04:35
+ArrivalTime:2020-05-24 06:25
 Carriage:B2230
 {
 Type:A
@@ -2616,6 +5220,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-25 04:35
+ArrivalTime:2020-05-25 06:25
+Carriage:B3196
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G6171
 {
 DepartureStation:Ningbo
@@ -2623,6 +5241,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-11 04:35
 ArrivalTime:2020-05-11 06:25
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-26 04:35
+ArrivalTime:2020-05-26 06:25
 Carriage:N1543
 {
 Type:A
@@ -2644,6 +5276,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-27 04:35
+ArrivalTime:2020-05-27 06:25
+Carriage:N0036
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G6171
 {
 DepartureStation:Ningbo
@@ -2651,6 +5297,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-13 04:35
 ArrivalTime:2020-05-13 06:25
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-28 04:35
+ArrivalTime:2020-05-28 06:25
 Carriage:N6776
 {
 Type:A
@@ -2672,6 +5332,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-29 04:35
+ArrivalTime:2020-05-29 06:25
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G6171
 {
 DepartureStation:Ningbo
@@ -2679,6 +5353,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Qingdao
 DepatureTime:2020-05-15 04:35
 ArrivalTime:2020-05-15 06:25
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G6171
+{
+DepartureStation:Ningbo
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Qingdao
+DepatureTime:2020-05-30 04:35
+ArrivalTime:2020-05-30 06:25
 Carriage:B2230
 {
 Type:A
@@ -2700,6 +5388,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G0849
+{
+DepartureStation:Tianjin
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-24 02:21
+ArrivalTime:2020-05-24 04:57
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G49
 {
 DepartureStation:Taiyuan
@@ -2707,6 +5409,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-01 08:11
 ArrivalTime:2020-05-01 11:42
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-16 08:11
+ArrivalTime:2020-05-16 11:42
 Carriage:B6802
 {
 Type:A
@@ -2728,6 +5444,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-17 08:11
+ArrivalTime:2020-05-17 11:42
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G49
 {
 DepartureStation:Taiyuan
@@ -2735,6 +5465,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-03 08:11
 ArrivalTime:2020-05-03 11:42
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-18 08:11
+ArrivalTime:2020-05-18 11:42
 Carriage:N1543
 {
 Type:A
@@ -2756,6 +5500,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-19 08:11
+ArrivalTime:2020-05-19 11:42
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G49
 {
 DepartureStation:Taiyuan
@@ -2763,6 +5521,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-05 08:11
 ArrivalTime:2020-05-05 11:42
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-20 08:11
+ArrivalTime:2020-05-20 11:42
 Carriage:B1310
 {
 Type:A
@@ -2784,6 +5556,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-21 08:11
+ArrivalTime:2020-05-21 11:42
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G49
 {
 DepartureStation:Taiyuan
@@ -2791,6 +5577,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-07 08:11
 ArrivalTime:2020-05-07 11:42
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-22 08:11
+ArrivalTime:2020-05-22 11:42
 Carriage:N3616
 {
 Type:A
@@ -2812,6 +5612,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-23 08:11
+ArrivalTime:2020-05-23 11:42
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G49
 {
 DepartureStation:Taiyuan
@@ -2819,6 +5633,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-09 08:11
 ArrivalTime:2020-05-09 11:42
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-24 08:11
+ArrivalTime:2020-05-24 11:42
 Carriage:B7408
 {
 Type:A
@@ -2840,6 +5668,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-25 08:11
+ArrivalTime:2020-05-25 11:42
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G49
 {
 DepartureStation:Taiyuan
@@ -2847,6 +5689,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-11 08:11
 ArrivalTime:2020-05-11 11:42
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-26 08:11
+ArrivalTime:2020-05-26 11:42
 Carriage:B6043
 {
 Type:A
@@ -2868,6 +5724,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-27 08:11
+ArrivalTime:2020-05-27 11:42
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G49
 {
 DepartureStation:Taiyuan
@@ -2875,6 +5745,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-13 08:11
 ArrivalTime:2020-05-13 11:42
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-28 08:11
+ArrivalTime:2020-05-28 11:42
 Carriage:N6776
 {
 Type:A
@@ -2896,6 +5780,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-29 08:11
+ArrivalTime:2020-05-29 11:42
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G49
 {
 DepartureStation:Taiyuan
@@ -2903,6 +5801,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Zhengzhou
 DepatureTime:2020-05-15 08:11
 ArrivalTime:2020-05-15 11:42
+Carriage:N1236
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G49
+{
+DepartureStation:Taiyuan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Zhengzhou
+DepatureTime:2020-05-30 08:11
+ArrivalTime:2020-05-30 11:42
 Carriage:N1236
 {
 Type:A
@@ -2924,6 +5836,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G749
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-20 03:32
+ArrivalTime:2020-05-20 09:29
+Carriage:B7408
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G749
 {
 DepartureStation:Weihai
@@ -2931,6 +5857,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-09 03:32
 ArrivalTime:2020-05-09 09:29
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G749
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-24 03:32
+ArrivalTime:2020-05-24 09:29
 Carriage:B2581
 {
 Type:A
@@ -2952,6 +5892,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G749
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-28 03:32
+ArrivalTime:2020-05-28 09:29
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G749
 {
 DepartureStation:Weihai
@@ -2959,6 +5913,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-14 03:32
 ArrivalTime:2020-05-14 09:29
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G749
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-29 03:32
+ArrivalTime:2020-05-29 09:29
 Carriage:B2749
 {
 Type:A
@@ -2980,6 +5948,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G749
+{
+DepartureStation:Weihai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-30 03:32
+ArrivalTime:2020-05-30 09:29
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G75
 {
 DepartureStation:Xining
@@ -2987,6 +5969,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hefei
 DepatureTime:2020-05-15 16:28
 ArrivalTime:2020-05-15 18:39
+Carriage:B9035
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G75
+{
+DepartureStation:Xining
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hefei
+DepatureTime:2020-05-30 16:28
+ArrivalTime:2020-05-30 18:39
 Carriage:B9035
 {
 Type:A
@@ -3008,6 +6004,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-16 10:43
+ArrivalTime:2020-05-16 12:03
+Carriage:N8625
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G01
 {
 DepartureStation:Yantai
@@ -3015,6 +6025,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-02 10:43
 ArrivalTime:2020-05-02 12:03
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-17 10:43
+ArrivalTime:2020-05-17 12:03
 Carriage:B3380
 {
 Type:A
@@ -3036,6 +6060,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-18 10:43
+ArrivalTime:2020-05-18 12:03
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G01
 {
 DepartureStation:Yantai
@@ -3043,6 +6081,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-04 10:43
 ArrivalTime:2020-05-04 12:03
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-19 10:43
+ArrivalTime:2020-05-19 12:03
 Carriage:B2230
 {
 Type:A
@@ -3064,6 +6116,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-20 10:43
+ArrivalTime:2020-05-20 12:03
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G01
 {
 DepartureStation:Yantai
@@ -3071,6 +6137,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-06 10:43
 ArrivalTime:2020-05-06 12:03
+Carriage:N8363
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-21 10:43
+ArrivalTime:2020-05-21 12:03
 Carriage:N8363
 {
 Type:A
@@ -3092,6 +6172,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-22 10:43
+ArrivalTime:2020-05-22 12:03
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G01
 {
 DepartureStation:Yantai
@@ -3099,6 +6193,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-08 10:43
 ArrivalTime:2020-05-08 12:03
+Carriage:B6802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-23 10:43
+ArrivalTime:2020-05-23 12:03
 Carriage:B6802
 {
 Type:A
@@ -3120,6 +6228,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-24 10:43
+ArrivalTime:2020-05-24 12:03
+Carriage:B1297
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G01
 {
 DepartureStation:Yantai
@@ -3127,6 +6249,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-10 10:43
 ArrivalTime:2020-05-10 12:03
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-25 10:43
+ArrivalTime:2020-05-25 12:03
 Carriage:N5375
 {
 Type:A
@@ -3148,6 +6284,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-26 10:43
+ArrivalTime:2020-05-26 12:03
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G01
 {
 DepartureStation:Yantai
@@ -3155,6 +6305,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-12 10:43
 ArrivalTime:2020-05-12 12:03
+Carriage:B8766
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-27 10:43
+ArrivalTime:2020-05-27 12:03
 Carriage:B8766
 {
 Type:A
@@ -3176,6 +6340,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-28 10:43
+ArrivalTime:2020-05-28 12:03
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G01
 {
 DepartureStation:Yantai
@@ -3183,6 +6361,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Hongkong
 DepatureTime:2020-05-14 10:43
 ArrivalTime:2020-05-14 12:03
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-29 10:43
+ArrivalTime:2020-05-29 12:03
 Carriage:N7802
 {
 Type:A
@@ -3204,6 +6396,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G01
+{
+DepartureStation:Yantai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Hongkong
+DepatureTime:2020-05-30 10:43
+ArrivalTime:2020-05-30 12:03
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G1342
 {
 DepartureStation:Guangzhou
@@ -3211,6 +6417,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-01 18:28
 ArrivalTime:2020-05-01 22:16
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-16 18:28
+ArrivalTime:2020-05-16 22:16
 Carriage:B0741
 {
 Type:A
@@ -3232,6 +6452,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-17 18:28
+ArrivalTime:2020-05-17 22:16
+Carriage:N3244
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G1342
 {
 DepartureStation:Guangzhou
@@ -3239,6 +6473,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-03 18:28
 ArrivalTime:2020-05-03 22:16
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-18 18:28
+ArrivalTime:2020-05-18 22:16
 Carriage:N9803
 {
 Type:A
@@ -3260,6 +6508,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-19 18:28
+ArrivalTime:2020-05-19 22:16
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G1342
 {
 DepartureStation:Guangzhou
@@ -3267,6 +6529,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-05 18:28
 ArrivalTime:2020-05-05 22:16
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-20 18:28
+ArrivalTime:2020-05-20 22:16
 Carriage:B8843
 {
 Type:A
@@ -3288,6 +6564,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-21 18:28
+ArrivalTime:2020-05-21 22:16
+Carriage:N7714
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G1342
 {
 DepartureStation:Guangzhou
@@ -3295,6 +6585,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-07 18:28
 ArrivalTime:2020-05-07 22:16
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-22 18:28
+ArrivalTime:2020-05-22 22:16
 Carriage:B2230
 {
 Type:A
@@ -3316,6 +6620,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-23 18:28
+ArrivalTime:2020-05-23 22:16
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G1342
 {
 DepartureStation:Guangzhou
@@ -3323,6 +6641,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-09 18:28
 ArrivalTime:2020-05-09 22:16
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-24 18:28
+ArrivalTime:2020-05-24 22:16
 Carriage:N1543
 {
 Type:A
@@ -3344,6 +6676,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-25 18:28
+ArrivalTime:2020-05-25 22:16
+Carriage:B2205
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G1342
 {
 DepartureStation:Guangzhou
@@ -3351,6 +6697,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-11 18:28
 ArrivalTime:2020-05-11 22:16
+Carriage:B3898
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-26 18:28
+ArrivalTime:2020-05-26 22:16
 Carriage:B3898
 {
 Type:A
@@ -3372,6 +6732,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-27 18:28
+ArrivalTime:2020-05-27 22:16
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G1342
 {
 DepartureStation:Guangzhou
@@ -3379,6 +6753,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-13 18:28
 ArrivalTime:2020-05-13 22:16
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-28 18:28
+ArrivalTime:2020-05-28 22:16
 Carriage:N5375
 {
 Type:A
@@ -3400,6 +6788,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-29 18:28
+ArrivalTime:2020-05-29 22:16
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G1342
 {
 DepartureStation:Guangzhou
@@ -3407,6 +6809,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Kunming
 DepatureTime:2020-05-15 18:28
 ArrivalTime:2020-05-15 22:16
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G1342
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Kunming
+DepatureTime:2020-05-30 18:28
+ArrivalTime:2020-05-30 22:16
 Carriage:N9803
 {
 Type:A
@@ -3428,6 +6844,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-16 22:11
+ArrivalTime:2020-05-16 23:20
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-02,G956
 {
 DepartureStation:Changchun
@@ -3435,6 +6865,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-02 22:11
 ArrivalTime:2020-05-02 23:20
+Carriage:B2230
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-17,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-17 22:11
+ArrivalTime:2020-05-17 23:20
 Carriage:B2230
 {
 Type:A
@@ -3456,6 +6900,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-18 22:11
+ArrivalTime:2020-05-18 23:20
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G956
 {
 DepartureStation:Changchun
@@ -3463,6 +6921,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-04 22:11
 ArrivalTime:2020-05-04 23:20
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-19 22:11
+ArrivalTime:2020-05-19 23:20
 Carriage:N4993
 {
 Type:A
@@ -3484,6 +6956,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-20 22:11
+ArrivalTime:2020-05-20 23:20
+Carriage:N1236
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G956
 {
 DepartureStation:Changchun
@@ -3491,6 +6977,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-06 22:11
 ArrivalTime:2020-05-06 23:20
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-21 22:11
+ArrivalTime:2020-05-21 23:20
 Carriage:N5375
 {
 Type:A
@@ -3512,6 +7012,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-22 22:11
+ArrivalTime:2020-05-22 23:20
+Carriage:N5888
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G956
 {
 DepartureStation:Changchun
@@ -3519,6 +7033,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-08 22:11
 ArrivalTime:2020-05-08 23:20
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-23 22:11
+ArrivalTime:2020-05-23 23:20
 Carriage:B5083
 {
 Type:A
@@ -3540,6 +7068,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-24 22:11
+ArrivalTime:2020-05-24 23:20
+Carriage:N4993
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G956
 {
 DepartureStation:Changchun
@@ -3547,6 +7089,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-10 22:11
 ArrivalTime:2020-05-10 23:20
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-25 22:11
+ArrivalTime:2020-05-25 23:20
 Carriage:B9273
 {
 Type:A
@@ -3568,6 +7124,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-26 22:11
+ArrivalTime:2020-05-26 23:20
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G956
 {
 DepartureStation:Changchun
@@ -3575,6 +7145,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-12 22:11
 ArrivalTime:2020-05-12 23:20
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-27 22:11
+ArrivalTime:2020-05-27 23:20
 Carriage:N9493
 {
 Type:A
@@ -3596,6 +7180,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-28 22:11
+ArrivalTime:2020-05-28 23:20
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G956
 {
 DepartureStation:Changchun
@@ -3603,6 +7201,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-14 22:11
 ArrivalTime:2020-05-14 23:20
+Carriage:B5083
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-29 22:11
+ArrivalTime:2020-05-29 23:20
 Carriage:B5083
 {
 Type:A
@@ -3624,6 +7236,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G956
+{
+DepartureStation:Changchun
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-30 22:11
+ArrivalTime:2020-05-30 23:20
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G06
 {
 DepartureStation:Changsha
@@ -3631,6 +7257,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanjing
 DepatureTime:2020-05-03 10:22
 ArrivalTime:2020-05-03 14:31
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G06
+{
+DepartureStation:Changsha
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanjing
+DepatureTime:2020-05-18 10:22
+ArrivalTime:2020-05-18 14:31
 Carriage:N3522
 {
 Type:A
@@ -3652,6 +7292,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-17 22:24
+ArrivalTime:2020-05-17 00:31
+Carriage:B6043
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G375
 {
 DepartureStation:Haikou
@@ -3659,6 +7313,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanchang
 DepatureTime:2020-05-07 22:24
 ArrivalTime:2020-05-08 00:31
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-22 22:24
+ArrivalTime:2020-05-22 00:31
 Carriage:N9452
 {
 Type:A
@@ -3680,6 +7348,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-23 22:24
+ArrivalTime:2020-05-23 00:31
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G375
 {
 DepartureStation:Haikou
@@ -3687,6 +7369,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanchang
 DepatureTime:2020-05-11 22:24
 ArrivalTime:2020-05-12 00:31
+Carriage:N9803
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-26 22:24
+ArrivalTime:2020-05-26 00:31
 Carriage:N9803
 {
 Type:A
@@ -3708,6 +7404,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-28 22:24
+ArrivalTime:2020-05-28 00:31
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G375
 {
 DepartureStation:Haikou
@@ -3715,6 +7425,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Nanchang
 DepatureTime:2020-05-14 22:24
 ArrivalTime:2020-05-15 00:31
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-29 22:24
+ArrivalTime:2020-05-29 00:31
 Carriage:N3616
 {
 Type:A
@@ -3736,6 +7460,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G375
+{
+DepartureStation:Haikou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Nanchang
+DepatureTime:2020-05-30 22:24
+ArrivalTime:2020-05-30 00:31
+Carriage:N1543
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G1082
 {
 DepartureStation:Dalian
@@ -3743,6 +7481,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-01 03:14
 ArrivalTime:2020-05-01 07:48
+Carriage:B8843
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-16 03:14
+ArrivalTime:2020-05-16 07:48
 Carriage:B8843
 {
 Type:A
@@ -3764,6 +7516,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-18,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-18 03:14
+ArrivalTime:2020-05-18 07:48
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-04,G1082
 {
 DepartureStation:Dalian
@@ -3771,6 +7537,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-04 03:14
 ArrivalTime:2020-05-04 07:48
+Carriage:B4979
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-19,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-19 03:14
+ArrivalTime:2020-05-19 07:48
 Carriage:B4979
 {
 Type:A
@@ -3792,6 +7572,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-20 03:14
+ArrivalTime:2020-05-20 07:48
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G1082
 {
 DepartureStation:Dalian
@@ -3799,6 +7593,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-06 03:14
 ArrivalTime:2020-05-06 07:48
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-21 03:14
+ArrivalTime:2020-05-21 07:48
 Carriage:B0741
 {
 Type:A
@@ -3820,6 +7628,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-22,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-22 03:14
+ArrivalTime:2020-05-22 07:48
+Carriage:B6340
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-08,G1082
 {
 DepartureStation:Dalian
@@ -3827,6 +7649,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-08 03:14
 ArrivalTime:2020-05-08 07:48
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-23,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-23 03:14
+ArrivalTime:2020-05-23 07:48
 Carriage:N7932
 {
 Type:A
@@ -3848,6 +7684,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-24,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-24 03:14
+ArrivalTime:2020-05-24 07:48
+Carriage:B2749
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-10,G1082
 {
 DepartureStation:Dalian
@@ -3855,6 +7705,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-10 03:14
 ArrivalTime:2020-05-10 07:48
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-25,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-25 03:14
+ArrivalTime:2020-05-25 07:48
 Carriage:N5375
 {
 Type:A
@@ -3876,6 +7740,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-26,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-26 03:14
+ArrivalTime:2020-05-26 07:48
+Carriage:B4892
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-12,G1082
 {
 DepartureStation:Dalian
@@ -3883,6 +7761,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-12 03:14
 ArrivalTime:2020-05-12 07:48
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-27,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-27 03:14
+ArrivalTime:2020-05-27 07:48
 Carriage:N6776
 {
 Type:A
@@ -3904,6 +7796,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-28,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-28 03:14
+ArrivalTime:2020-05-28 07:48
+Carriage:N9452
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G1082
 {
 DepartureStation:Dalian
@@ -3911,6 +7817,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Shijiazhuang
 DepatureTime:2020-05-14 03:14
 ArrivalTime:2020-05-14 07:48
+Carriage:N5375
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-29 03:14
+ArrivalTime:2020-05-29 07:48
 Carriage:N5375
 {
 Type:A
@@ -3932,6 +7852,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-30,G1082
+{
+DepartureStation:Dalian
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Shijiazhuang
+DepatureTime:2020-05-30 03:14
+ArrivalTime:2020-05-30 07:48
+Carriage:B4979
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G985
 {
 DepartureStation:Fuzhou
@@ -3939,6 +7873,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Taipei
 DepatureTime:2020-05-07 10:33
 ArrivalTime:2020-05-07 13:26
+Carriage:N3616
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G985
+{
+DepartureStation:Fuzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Taipei
+DepatureTime:2020-05-22 10:33
+ArrivalTime:2020-05-22 13:26
 Carriage:N3616
 {
 Type:A
@@ -3960,6 +7908,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G045
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-21 03:53
+ArrivalTime:2020-05-21 06:16
+Carriage:N3522
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-14,G045
 {
 DepartureStation:Shenyang
@@ -3967,6 +7929,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Wuhan
 DepatureTime:2020-05-14 03:53
 ArrivalTime:2020-05-14 06:16
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-29,G045
+{
+DepartureStation:Shenyang
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Wuhan
+DepatureTime:2020-05-29 03:53
+ArrivalTime:2020-05-29 06:16
 Carriage:N6776
 {
 Type:A
@@ -3988,6 +7964,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-20,G2232
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Guiyang
+DepatureTime:2020-05-20 15:02
+ArrivalTime:2020-05-20 16:24
+Carriage:B2581
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-06,G2232
 {
 DepartureStation:Jinan
@@ -3995,6 +7985,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Guiyang
 DepatureTime:2020-05-06 15:02
 ArrivalTime:2020-05-06 16:24
+Carriage:B9035
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-21,G2232
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Guiyang
+DepatureTime:2020-05-21 15:02
+ArrivalTime:2020-05-21 16:24
 Carriage:B9035
 {
 Type:A
@@ -4016,6 +8020,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G2232
+{
+DepartureStation:Jinan
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Guiyang
+DepatureTime:2020-05-25 15:02
+ArrivalTime:2020-05-25 16:24
+Carriage:N3830
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-01,G85
 {
 DepartureStation:Shanghai
@@ -4023,6 +8041,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-01 01:00
 ArrivalTime:2020-05-01 06:31
+Carriage:N9614
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-16,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-16 01:00
+ArrivalTime:2020-05-16 06:31
 Carriage:N9614
 {
 Type:A
@@ -4044,6 +8076,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-17,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-17 01:00
+ArrivalTime:2020-05-17 06:31
+Carriage:N1992
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G85
 {
 DepartureStation:Shanghai
@@ -4051,6 +8097,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-03 01:00
 ArrivalTime:2020-05-03 06:31
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-18 01:00
+ArrivalTime:2020-05-18 06:31
 Carriage:B1310
 {
 Type:A
@@ -4072,6 +8132,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-19,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-19 01:00
+ArrivalTime:2020-05-19 06:31
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-05,G85
 {
 DepartureStation:Shanghai
@@ -4079,6 +8153,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-05 01:00
 ArrivalTime:2020-05-05 06:31
+Carriage:N7932
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-20,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-20 01:00
+ArrivalTime:2020-05-20 06:31
 Carriage:N7932
 {
 Type:A
@@ -4100,6 +8188,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-21,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-21 01:00
+ArrivalTime:2020-05-21 06:31
+Carriage:B3380
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-07,G85
 {
 DepartureStation:Shanghai
@@ -4107,6 +8209,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-07 01:00
 ArrivalTime:2020-05-07 06:31
+Carriage:B3898
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-22,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-22 01:00
+ArrivalTime:2020-05-22 06:31
 Carriage:B3898
 {
 Type:A
@@ -4128,6 +8244,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-23,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-23 01:00
+ArrivalTime:2020-05-23 06:31
+Carriage:B1310
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-09,G85
 {
 DepartureStation:Shanghai
@@ -4135,6 +8265,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-09 01:00
 ArrivalTime:2020-05-09 06:31
+Carriage:B9273
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-24,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-24 01:00
+ArrivalTime:2020-05-24 06:31
 Carriage:B9273
 {
 Type:A
@@ -4156,6 +8300,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-25,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-25 01:00
+ArrivalTime:2020-05-25 06:31
+Carriage:B4007
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-11,G85
 {
 DepartureStation:Shanghai
@@ -4163,6 +8321,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-11 01:00
 ArrivalTime:2020-05-11 06:31
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-26,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-26 01:00
+ArrivalTime:2020-05-26 06:31
 Carriage:N6776
 {
 Type:A
@@ -4184,6 +8356,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-27,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-27 01:00
+ArrivalTime:2020-05-27 06:31
+Carriage:N9493
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-13,G85
 {
 DepartureStation:Shanghai
@@ -4191,6 +8377,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-13 01:00
 ArrivalTime:2020-05-13 06:31
+Carriage:N5888
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-28,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-28 01:00
+ArrivalTime:2020-05-28 06:31
 Carriage:N5888
 {
 Type:A
@@ -4212,6 +8412,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-29,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-29 01:00
+ArrivalTime:2020-05-29 06:31
+Carriage:N9649
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-15,G85
 {
 DepartureStation:Shanghai
@@ -4219,6 +8433,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Dalian
 DepatureTime:2020-05-15 01:00
 ArrivalTime:2020-05-15 06:31
+Carriage:N6776
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-30,G85
+{
+DepartureStation:Shanghai
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Dalian
+DepatureTime:2020-05-30 01:00
+ArrivalTime:2020-05-30 06:31
 Carriage:N6776
 {
 Type:A
@@ -4240,6 +8468,20 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
+Train:2020-05-16,G9673
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Jinan
+DepatureTime:2020-05-16 15:06
+ArrivalTime:2020-05-16 18:00
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
 Train:2020-05-03,G9673
 {
 DepartureStation:Guangzhou
@@ -4247,6 +8489,20 @@ IntermediateStation:StationA,StationB,StationC,StationD
 ArrivalStation:Jinan
 DepatureTime:2020-05-03 15:06
 ArrivalTime:2020-05-03 18:00
+Carriage:N7802
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}
+Train:2020-05-18,G9673
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Jinan
+DepatureTime:2020-05-18 15:06
+ArrivalTime:2020-05-18 18:00
 Carriage:N7802
 {
 Type:A
@@ -4268,4 +8524,17 @@ PersonnelNumber:50
 FactoryYear:2012
 }
 }
-
+Train:2020-05-24,G9673
+{
+DepartureStation:Guangzhou
+IntermediateStation:StationA,StationB,StationC,StationD
+ArrivalStation:Jinan
+DepatureTime:2020-05-24 15:06
+ArrivalTime:2020-05-24 18:00
+Carriage:B0741
+{
+Type:A
+PersonnelNumber:50
+FactoryYear:2012
+}
+}

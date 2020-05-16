@@ -17,11 +17,11 @@ import planningEntry.MultipleLocationEntryImpl;
 import planningEntry.MultipleSortedResourceEntryImpl;
 import planningEntry.PlanningEntry;
 import planningEntry.TrainEntry;
-import planningEntryAPIs.CheckResourceExclusiveConflict;
-import planningEntryAPIs.FindPreEntryPerResource;
+import planningEntryAPIs.PlanningEntryAPIs;
 import planningEntryCollection.ShowCollection;
 import planningEntryCollection.TrainCollection;
 import resource.Carriage;
+import resource.Resource;
 import timeslot.Timeslot;
 
 import javax.swing.JTextField;
@@ -63,7 +63,7 @@ public class TrainScheduleApp {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-		setMessage("src/txt/TrainSchedule_2.txt");
+		setMessage("src/txt/TrainSchedule_3.txt");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
@@ -260,21 +260,23 @@ public class TrainScheduleApp {
 				String[][] s = new String[n][4];
 				int i = 0;
 				for(TrainEntry fe:fc) {
-					if(fe.getResource().contains(number)) {
-						s[i][0] = fe.getEntryName();
-						s[i][1] = fe.getStartAndEndTime().getStartTime()+" to "+fe.getStartAndEndTime().getEndTime();;
-						s[i][2] = fe.getMle().getLocations().get(0).getLocationName()+"-"+fe.getMle().getLocations().get(fe.getMle().getLocations().size()-1).getLocationName();
-						s[i][3] = fe.getState().toString();
-						i++;
-						if(i == n) {
-							n *= 2;
-							String[][] dest = s;
-							s = new String[n][4];
-							for(int j = 0;j<n/2;j++) {
-								s[j][0] = dest[j][0];
-								s[j][1] = dest[j][1];
-								s[j][2] = dest[j][2];
-								s[j][3] = dest[j][3];
+					for(Carriage carriage:fe.getCarriages()) {
+						if(carriage.getNumbering().equals(number)) {
+							s[i][0] = fe.getEntryName();
+							s[i][1] = fe.getStartAndEndTime().getStartTime()+" to "+fe.getStartAndEndTime().getEndTime();;
+							s[i][2] = fe.getMle().getLocations().get(0).getLocationName()+"-"+fe.getMle().getLocations().get(fe.getMle().getLocations().size()-1).getLocationName();
+							s[i][3] = fe.getState().toString();
+							i++;
+							if(i == n) {
+								n *= 2;
+								String[][] dest = s;
+								s = new String[n][4];
+								for(int j = 0;j<n/2;j++) {
+									s[j][0] = dest[j][0];
+									s[j][1] = dest[j][1];
+									s[j][2] = dest[j][2];
+									s[j][3] = dest[j][3];
+								}
 							}
 						}
 					}
@@ -423,7 +425,6 @@ public class TrainScheduleApp {
 			    		flag = 1;
 			    		if(trainEntry.Start()) {
 			    			 JOptionPane.showMessageDialog(null, "启动成功，当前状态："+trainEntry.getState());
-			    			trainEntry.block(new SimpleDateFormat("yyyy-MM-dd HH:mm").format(new Date()));
 			    		}
 			    		else
 			    			JOptionPane.showMessageDialog(null, "错误提示框", "当前状态不支持该操作！",JOptionPane.ERROR_MESSAGE);
@@ -557,7 +558,7 @@ public class TrainScheduleApp {
 		JTextArea textArea = new JTextArea();
 		textArea.setBackground(Color.LIGHT_GRAY);
 		textArea.setForeground(Color.RED);
-		textArea.setText("\u7279\u522B\u6CE8\u610F\uFF1A\u8F93\u5165\u4E2D\u95F4\u7AD9\u65F6\uFF0C\u4E24\u4E2A\u4E2D\u95F4\u7AD9\u4E4B\u95F4\u4EE5\u9017\u53F7\u9694\u5F00\uFF1B\u8F93\u5165\u591A\u4E2A\u8F66\u53A2\u7F16\u53F7\u65F6\uFF0C\u4E5F\u4EE5\u9017\u53F7\u9694\u5F00\u3002\r\n\u6CE8\uFF1A1.\u201C\u6240\u6709\u5217\u8F66\u8BA1\u5212\u201D\uFF1A\u67E5\u770B\u5F53\u524D\u8BA1\u5212\u96C6\u4E2D\u7684\u6240\u6709\u5217\u8F66\u8BA1\u5212\u3002\r\n2.\u201C\u5F53\u524D\u4F4D\u7F6E\u5217\u8F66\u201D\uFF1A\u53EA\u9700\u5728\u8D77\u59CB\u7AD9\u5904\u8F93\u5165\u4F4D\u7F6E\uFF0C\u5C31\u53EF\u67E5\u770B\u8BE5\u4F4D\u7F6E\u7684\u5217\u8F66\u8868\u3002\r\n3.\u201C\u5F53\u524D\u8D44\u6E90\u5217\u8F66\u201D\uFF1A\u8F93\u5165\u5BF9\u5E94\u7684\u8F66\u53A2\u7F16\u53F7\uFF0C\u5373\u53EF\u67E5\u770B\u8BE5\u8F66\u53A2\u7684\u4F7F\u7528\u60C5\u51B5\u3002\r\n4.\u201C\u5F53\u524D\u5217\u8F66\u72B6\u6001\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u67E5\u770B\u8BE5\u5217\u8F66\u5F53\u524D\u72B6\u6001\u3002\r\n5.\u201C\u65B0\u589E\u5217\u8F66\u201D\uFF1A\u9664\u8BA1\u5212\u9879\u96C6\u4E0D\u9700\u8981\u8F93\u5165\uFF0C\u5176\u5B83\u90FD\u5F97\u8F93\u5165\u3002\r\n6.\u201C\u5206\u914D/\u6DFB\u52A0\u8D44\u6E90\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\uFF0C\u8F66\u53A2\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u4E3A\u8BE5\u8D9F\u5217\u8F66\u5206\u914D/\u6DFB\u52A0\u5BF9\u5E94\u7F16\u53F7\u7684\u8F66\u53A2\u3002\r\n7.\u201C\u542F\u52A8\u5F53\u524D\u5217\u8F66\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u8D77\u98DE\u65F6\u95F4\uFF0C\u70B9\u51FB\u5373\u53EF\u542F\u52A8\u3002\r\n8.\"\u4E2D\u9014\u505C\u8F66\u201C\uFF1A\u8F93\u5165\u5217\u8F66\u7F16\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\uFF0C\u70B9\u51FB\u6309\u94AE\uFF0C\u82E5\u8BE5\u5217\u8F66\u8FD8\u6709\u4E2D\u95F4\u7AD9\uFF0C\u5373\u53EF\u505C\u8F66\u3002\r\n9.\u201C\u7ED3\u675F\u5F53\u524D\u5217\u8F66\u201D\uFF1A\u7C7B\u6BD47\u3002\r\n10.\u201C\u67E5\u770B\u51B2\u7A81\u201D\uFF1A\r\n11.\u201C\u66F4\u6539\u8BA1\u5212\u9879\u96C6\u201D\uFF1A\u5728\u5DE6\u4FA7\u9009\u62E9\u4E00\u4E2A\u8BA1\u5212\u9879\u96C6\uFF08\u6587\u4EF6\uFF09\uFF0C\u70B9\u51FB\u5373\u53EF\u3002\r\n12.\u201C\u68C0\u67E5\u77DB\u76FE\u201D\uFF1A\u67E5\u770B\u662F\u5426\u5B58\u5728\u8D44\u6E90\u62A2\u5360\u77DB\u76FE\u3002\r\n13.\u201C\u524D\u5E8F\u8BA1\u5212\u9879\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\uFF0C\u8F66\u53A2\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\uFF0C\u4EE5\u6B64\u641C\u7D22\u8BA1\u5212\u9879\u96C6\u5408\u4E2D\u4E0E\u8F93\u5165\u5217\u8F66\u4F7F\u7528\u540C\u4E00\u8D44\u6E90\u4E14\u65F6\u95F4\u5728\u524D\u9762\u7684\u8BA1\u5212\u9879\u3002\r\n14.\u201C\u7BA1\u7406\u8D44\u6E90\u201D\uFF1A\u53EF\u589E\u52A0\uFF08\u5220\u9664\u3001\u4FEE\u6539\uFF09\u5F53\u524D\u8BA1\u5212\u9879\u96C6\u4E2D\u7684\u8D44\u6E90\u3002\r\n15.\u201C\u7BA1\u7406\u4F4D\u7F6E\u201D\uFF1A\u540C12.\r\n16.\u201C\u4E2D\u95F4\u7AD9\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\uFF0C\u70B9\u51FB\u6309\u94AE\u5373\u53EF\u67E5\u770B\u8BE5\u8D9F\u5217\u8F66\u9014\u7ECF\u7684\u4E2D\u95F4\u7AD9\u3002");
+		textArea.setText("\u7279\u522B\u6CE8\u610F\uFF1A\u8F93\u5165\u4E2D\u95F4\u7AD9\u65F6\uFF0C\u4E24\u4E2A\u4E2D\u95F4\u7AD9\u4E4B\u95F4\u4EE5\u9017\u53F7\u9694\u5F00\uFF1B\u8F93\u5165\u591A\u4E2A\u8F66\u53A2\u7F16\u53F7\u65F6\uFF0C\u4E5F\u4EE5\u9017\u53F7\u9694\u5F00\u3002\r\n\u6CE8\uFF1A1.\u201C\u6240\u6709\u5217\u8F66\u8BA1\u5212\u201D\uFF1A\u67E5\u770B\u5F53\u524D\u8BA1\u5212\u96C6\u4E2D\u7684\u6240\u6709\u5217\u8F66\u8BA1\u5212\u3002\r\n2.\u201C\u5F53\u524D\u4F4D\u7F6E\u5217\u8F66\u201D\uFF1A\u53EA\u9700\u5728\u8D77\u59CB\u7AD9\u5904\u8F93\u5165\u4F4D\u7F6E\uFF0C\u5C31\u53EF\u67E5\u770B\u8BE5\u4F4D\u7F6E\u7684\u5217\u8F66\u8868\u3002\r\n3.\u201C\u5F53\u524D\u8D44\u6E90\u5217\u8F66\u201D\uFF1A\u8F93\u5165\u5BF9\u5E94\u7684\u8F66\u53A2\u7F16\u53F7\uFF0C\u5373\u53EF\u67E5\u770B\u8BE5\u8F66\u53A2\u7684\u4F7F\u7528\u60C5\u51B5\u3002\r\n4.\u201C\u5F53\u524D\u5217\u8F66\u72B6\u6001\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u67E5\u770B\u8BE5\u5217\u8F66\u5F53\u524D\u72B6\u6001\u3002\r\n5.\u201C\u65B0\u589E\u5217\u8F66\u201D\uFF1A\u9664\u8BA1\u5212\u9879\u96C6\u4E0D\u9700\u8981\u8F93\u5165\uFF0C\u5176\u5B83\u90FD\u5F97\u8F93\u5165\u3002\r\n6.\u201C\u5206\u914D/\u6DFB\u52A0\u8D44\u6E90\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\uFF0C\u8F66\u53A2\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\u5373\u53EF\u4E3A\u8BE5\u8D9F\u5217\u8F66\u5206\u914D/\u6DFB\u52A0\u5BF9\u5E94\u7F16\u53F7\u7684\u8F66\u53A2\u3002\r\n7.\u201C\u542F\u52A8\u5F53\u524D\u5217\u8F66\u201D\uFF1A\u8F93\u5165\u822A\u73ED\u53F7\u548C\u8D77\u98DE\u65F6\u95F4\uFF0C\u70B9\u51FB\u5373\u53EF\u542F\u52A8\u3002\r\n8.\"\u4E2D\u9014\u505C\u8F66\u201C\uFF1A\u8F93\u5165\u5217\u8F66\u7F16\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\uFF0C\u70B9\u51FB\u6309\u94AE\uFF0C\u82E5\u8BE5\u5217\u8F66\u8FD8\u6709\u4E2D\u95F4\u7AD9\uFF0C\u5373\u53EF\u505C\u8F66\u3002\r\n9.\u201C\u7ED3\u675F\u5F53\u524D\u5217\u8F66\u201D\uFF1A\u7C7B\u6BD47\u3002\r\n10.\u201C\u67E5\u770B\u51B2\u7A81\u201D\uFF1A\r\n11.\u201C\u66F4\u6539\u8BA1\u5212\u9879\u96C6\u201D\uFF1A\u5728\u5DE6\u4FA7\u9009\u62E9\u4E00\u4E2A\u8BA1\u5212\u9879\u96C6\uFF08\u6587\u4EF6\uFF09\uFF0C\u70B9\u51FB\u5373\u53EF\u3002\r\n12.\u201C\u68C0\u67E5\u77DB\u76FE\u201D\uFF1A\u67E5\u770B\u662F\u5426\u5B58\u5728\u8D44\u6E90\u62A2\u5360\u77DB\u76FE\u3002\r\n13.\u201C\u524D\u5E8F\u8BA1\u5212\u9879\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\uFF0C\u8F66\u53A2\u7F16\u53F7\uFF0C\u51FA\u53D1\u65F6\u95F4\uFF0C\u4EE5\u6B64\u641C\u7D22\u8BA1\u5212\u9879\u96C6\u5408\u4E2D\u4E0E\u8F93\u5165\u5217\u8F66\u4F7F\u7528\u540C\u4E00\u8D44\u6E90\u4E14\u65F6\u95F4\u5728\u524D\u9762\u7684\u8BA1\u5212\u9879\u3002\r\n14.\u201C\u7BA1\u7406\u8D44\u6E90\u201D\uFF1A\u53EF\u589E\u52A0\uFF08\u5220\u9664\u3001\u4FEE\u6539\uFF09\u5F53\u524D\u8BA1\u5212\u9879\u96C6\u4E2D\u7684\u8D44\u6E90\u3002\r\n15.\u201C\u7BA1\u7406\u4F4D\u7F6E\u201D\uFF1A\u540C12.\r\n16.\u201C\u5168\u90E8\u7AD9\u70B9\u201D\uFF1A\u8F93\u5165\u5217\u8F66\u53F7\u548C\u51FA\u53D1\u65F6\u95F4\uFF0C\u70B9\u51FB\u6309\u94AE\u5373\u53EF\u67E5\u770B\u8BE5\u8D9F\u5217\u8F66\u9014\u7ECF\u7684\u4E2D\u95F4\u7AD9\u3002");
 		scrollPane.setViewportView(textArea);
 		
 		//检查矛盾
@@ -568,8 +569,8 @@ public class TrainScheduleApp {
 				for(TrainEntry ce:fc.getTrainEntry()) {
 					pe.add(ce);
 				}
-				CheckResourceExclusiveConflict crec = new CheckResourceExclusiveConflict();
-				crec.checkResourceExclusiveConflict(pe);
+				PlanningEntryAPIs pea = new PlanningEntryAPIs();
+				pea.checkResourceExclusiveConflict(pe);
 			}
 		});
 		btnNewButton_12.setBounds(0, 213, 92, 23);
@@ -585,13 +586,19 @@ public class TrainScheduleApp {
 				for(TrainEntry trainEntry:fc) {
 			    	if(trainEntry.getTrainNumber().equals(flightNumber)&&trainEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
 			    		flag = 1;
-			    		FindPreEntryPerResource fpepr = new FindPreEntryPerResource();
+			    		PlanningEntryAPIs pea = new PlanningEntryAPIs();
 			    		int size = fc.getTrainEntry().size();
 			    		List<PlanningEntry> pe = new ArrayList<PlanningEntry>();
 			    		for(int i = 0;i<size;i++) {
 			    			pe.add(fc.getTrainEntry().get(i));
 			    		}
-			    		TrainEntry te = (TrainEntry)fpepr.findPreEntryPerResource(textField_1.getText(),trainEntry,pe);
+			    		Set<Carriage> st = fc.getResources();
+			    		Resource re = null;
+			    		for(Carriage carriage:st) {
+			    			if(carriage.getNumbering().equals(textField_1.getText()))
+			    				re = carriage;
+			    		}
+			    		TrainEntry te = (TrainEntry)pea.findPreEntryPerResource(re,trainEntry,pe);
 			    		if(te != null)
 			    			JOptionPane.showMessageDialog(null, "列车号："+te.getTrainNumber()+"\n起止时间："+te.getStartAndEndTime().getStartTime()+"-"+te.getStartAndEndTime().getEndTime()+"\n起点-终点："+te.getMle().getLocations().get(0).getLocationName()+"-"+te.getMle().getLocations().get(te.getMle().getLocations().size()-1).getLocationName()+"\n车厢1编号："+te.getMsre().toString()+"\n状态："+te.getState());
 			    		else
@@ -620,7 +627,8 @@ public class TrainScheduleApp {
 						for(int ou = 0;ou<size;ou++) {
 							if(ou<size-1)
 								out = out+lo.get(ou).getLocationName()+"->";
-							out += lo.get(ou).getLocationName();
+							else
+							    out += lo.get(ou).getLocationName();
 						}														
 						JOptionPane.showMessageDialog(null, "全部站点"+out);
 					}			    	

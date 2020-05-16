@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import location.Location;
+import resource.Resource;
 import resource.Teacher;
 import timeslot.Timeslot;
 
@@ -45,10 +46,10 @@ public class CourseEntry extends CommonPlanningEntry implements CoursePlanningEn
 	}
 
 	@Override
-	public List<String> getResource(){
-		List<String> teachersID = new ArrayList<String>();
-		teachersID.add(ssre.getResource().getIDNumber());
-		return teachersID;
+	public List<Resource> getResource(){
+		List<Resource> teachers = new ArrayList<Resource>();
+		teachers.add(ssre.getResource());
+		return teachers;
 	}
 	
 	/**

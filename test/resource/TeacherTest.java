@@ -14,6 +14,7 @@ public class TeacherTest {
 	 * obj为空，obj非空
 	 * obj与this类型相同，obj与this类型不相同
 	 */
+	@SuppressWarnings("unlikely-arg-type")
 	@Test
 	public void equalsTest() {
 		Teacher teacher = new Teacher("001","王明","男","高级教师");

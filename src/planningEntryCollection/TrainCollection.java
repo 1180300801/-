@@ -58,11 +58,10 @@ public class TrainCollection implements Iterable<TrainEntry>,Collection{
     				TrainEntry trainEntry = tef.getEntry(S);
     				if(trainEntry == null)
     					break here;
-    				//检查是否存相同的两个航班，或者航班号相同时起止时间及地点不相同
+    				//检查是否存相同的两个航班，或者列车号相同时起止时间及地点不相同
     				for(TrainEntry te:trainCollection) {
     					if(!checkFE(trainEntry,te)) {
-    						System.out.println(S);
-    						 break here;
+    						break here;
     					}
     				}
     				carriages.add(trainEntry.getMsre().getResources().get(0));
@@ -129,17 +128,13 @@ public class TrainCollection implements Iterable<TrainEntry>,Collection{
 					}   										
 				}
 			} 
-			//航班号相同时，比较起止地是否相同，若不相同，则冲突
-			if(!te.getMle().getLocations().get(0).getLocationName().equals(trainEntry.getMle().getLocations().get(0).getLocationName())|!te.getMle().getLocations().get(te.getMle().getLocations().size()-1).getLocationName().equals(trainEntry.getMle().getLocations().get(trainEntry.getMle().getLocations().size()-1).getLocationName())) {
-				JOptionPane.showMessageDialog(null, "文件中存在航班号相同时起止地点不相同的计划项");
-			}
-			//航班号相同且不在同一天时，比较起止时间（时分）是否相同，若不相同，则冲突
+			//L列车号相同且不在同一天时，比较起止时间（时分）是否相同，若不相同，则冲突
 			String str1 = (trainEntry.getStartAndEndTime().getStartTime()).split(" ")[1];
 			String str2 = (te.getStartAndEndTime().getStartTime()).split(" ")[1];
 			String str3 = (trainEntry.getStartAndEndTime().getEndTime()).split(" ")[1];
 			String str4 = (te.getStartAndEndTime().getEndTime()).split(" ")[1];
 			if((!str1.equals(str2)|!str3.equals(str4))&te.getMle().getLocations().get(0).getLocationName().equals(trainEntry.getMle().getLocations().get(0).getLocationName())) {
-				JOptionPane.showMessageDialog(null, "文件中存在航班号相同时起止时间不相同的计划项");
+				JOptionPane.showMessageDialog(null, "文件中存在列车号相同时起止时间不相同的计划项");
 				System.out.println(te.getTrainNumber()+":"+str2+" "+str4+te.getMle().getLocations().get(0));
 				return false;
 			} 							

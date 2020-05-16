@@ -12,8 +12,7 @@ public class SingleLocationEntryImpl implements SingleLocationEntry {
 	@Override
 	public void setLocations(Location location) {
 		// TODO Auto-generated method stub
-		if(this.location == null)
-		    this.location = location;
+		this.location = location;
 	}
 
 	/**

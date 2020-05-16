@@ -6,12 +6,16 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-
+/**
+ * 创建适合各应用的文件
+ * @author Administrator
+ *
+ */
 public class CreatTxt {
 
 	public static void main(String[] args) throws IOException {
-		File file = new File("test/txt/test_3.txt"); 
-		file.createNewFile();
+		creatTrainTxt("src/txt/NewFlightSchedule_5.txt",5);
+		System.out.print("ok");
 	}
 	
 	public static void creatTxt(String fileName) throws IOException {
@@ -59,7 +63,7 @@ public class CreatTxt {
 			switch(i) {
 			case 0:
 				read = read.replaceFirst("Flight", "Train");
-				read = read.replaceFirst("\\,[A-Z]+", ",G");
+				read = read.replaceFirst("\\,[A-Z][A-Z]", ",G");
 				break;
 			case 2:
 				read = read.replaceFirst("DepartureAirport", "DepartureStation");

@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
 
 import location.Location;
 import resource.Carriage;
+import resource.Resource;
 import timeslot.Timeslot;
 
 public class TrainEntry extends CommonPlanningEntry implements TrainplanningEntry {
@@ -61,13 +62,13 @@ public class TrainEntry extends CommonPlanningEntry implements TrainplanningEntr
 	@Override
 	public boolean block(String timeslot) {
 		// TODO Auto-generated method stub
-		if(blockNum<msre.getResources().size()-2) {
+		if(blockNum<(mle.getLocations().size()-2)) {
 			blockNum++;
 			be.block(timeslot);
 			return setCurrentState("b");
 		}
 		else
-			JOptionPane.showMessageDialog(null, "中间站已走完，不可再中途停止！");
+			JOptionPane.showMessageDialog(null, "中间站已走完，不可再中途停止！"+(msre.getResources().size()-2));
 		return false;
 	}
 
@@ -100,10 +101,10 @@ public class TrainEntry extends CommonPlanningEntry implements TrainplanningEntr
 	}
 	
 	@Override
-	public List<String> getResource(){
-		List<String> resources = new ArrayList<String>();
+	public List<Resource> getResource(){
+		List<Resource> resources = new ArrayList<Resource>();
 		for(Carriage carriage:msre.getResources()) {
-			resources.add(carriage.getNumbering());
+			resources.add(carriage);
 		}
 		return resources;
 	}

@@ -1,9 +1,9 @@
 package planningEntry;
 
 import java.util.List;
-
 import entryState.Context;
 import entryState.StateWaiting;
+import resource.Resource;
 import timeslot.Timeslot;
 
 public class CommonPlanningEntry implements PlanningEntry {
@@ -91,7 +91,7 @@ public class CommonPlanningEntry implements PlanningEntry {
 	}
 
 	@Override
-	public List<String> getResource() {
+	public List<Resource> getResource() {
 		// TODO Auto-generated method stub
 		return null;
 	}

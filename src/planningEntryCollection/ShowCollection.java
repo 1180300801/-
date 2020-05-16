@@ -62,7 +62,7 @@ public class ShowCollection extends JFrame {
 		contentPane.setLayout(null);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(0, 54, 519, 211);
+		scrollPane.setBounds(0, 54, 529, 211);
 		contentPane.add(scrollPane);
 		
 		table = new JTable();
@@ -77,10 +77,10 @@ public class ShowCollection extends JFrame {
 		table.getColumnModel().getColumn(1).setPreferredWidth(255);
 		table.getColumnModel().getColumn(2).setPreferredWidth(132);
 		
-		JLabel lblNewLabel = new JLabel("\u822A\u73ED\u4FE1\u606F\u8868",JLabel.CENTER);
+		JLabel lblNewLabel = new JLabel("\u4FE1\u606F\u8868",JLabel.CENTER);
 		lblNewLabel.setFont(new Font("ËÎÌו", Font.PLAIN, 20));
 		lblNewLabel.setForeground(Color.BLUE);
-		lblNewLabel.setBounds(0, 0, 434, 53);
+		lblNewLabel.setBounds(0, 0, 529, 53);
 		contentPane.add(lblNewLabel);
 		
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);

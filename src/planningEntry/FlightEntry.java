@@ -5,6 +5,7 @@ import java.util.List;
 
 import location.Location;
 import resource.Flight;
+import resource.Resource;
 import timeslot.Timeslot;
 
 public class FlightEntry extends CommonPlanningEntry implements FlightPlanningEntry {
@@ -53,9 +54,9 @@ public class FlightEntry extends CommonPlanningEntry implements FlightPlanningEn
 	}
 	
 	@Override
-	public List<String> getResource(){
-		List<String> resources = new ArrayList<String>();
-		resources.add(se.getResource().getNumbering());
+	public List<Resource> getResource(){
+		List<Resource> resources = new ArrayList<Resource>();
+		resources.add(se.getResource());
 		return resources;
 	}
 	

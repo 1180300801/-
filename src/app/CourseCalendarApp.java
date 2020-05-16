@@ -33,10 +33,11 @@ import planningEntry.SingleLocationEntryImpl;
 import planningEntry.SingleSortedResourceEntryImpl;
 import planningEntryAPIs.CheckLocationConflict;
 import planningEntryAPIs.CheckResourceExclusiveConflict;
-import planningEntryAPIs.FindPreEntryPerResource;
 import planningEntryAPIs.LocationConflictAPI;
+import planningEntryAPIs.PlanningEntryAPIs;
 import planningEntryCollection.CourseCollection;
 import planningEntryCollection.ShowCollection;
+import resource.Resource;
 import resource.Teacher;
 import timeslot.Timeslot;
 
@@ -85,7 +86,7 @@ public class CourseCalendarApp {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 474, 337);
+		frame.setBounds(100, 100, 474, 353);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
@@ -98,14 +99,14 @@ public class CourseCalendarApp {
 		
 		JPanel panel_2 = new JPanel();
 		panel_2.setBorder(new TitledBorder(null, "JPanel title", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		panel_2.setBounds(335, -18, 123, 201);
+		panel_2.setBounds(335, -18, 123, 218);
 		frame.getContentPane().add(panel_2);
 		panel_2.setLayout(null);
 		
 		
 		JPanel panel = new JPanel();
 		panel.setBorder(new TitledBorder(null, "JPanel title", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		panel.setBounds(-6, 8, 348, 175);
+		panel.setBounds(-6, 8, 348, 185);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
@@ -462,6 +463,29 @@ public class CourseCalendarApp {
 		btnNewButton_9.setBounds(6, 142, 116, 25);
 		panel_2.add(btnNewButton_9);
 		
+		JButton btnNewButton_14 = new JButton("\u66F4\u6539\u6559\u5BA4");
+		btnNewButton_14.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				String course = textField.getText();
+				String startTime = comboBox_1.getSelectedItem().toString()+"-"+comboBox_2.getSelectedItem().toString()+"-"+comboBox_3.getSelectedItem().toString()+" "+comboBox_4.getSelectedItem().toString()+":"+comboBox_5.getSelectedItem().toString();
+				here:
+				for(CourseEntry courseEntry:fc) {
+			    	if(courseEntry.getClassName().equals(course)&&courseEntry.getStartAndEndTime().getStartTime().equals(startTime)) {			    	
+			    		if(textField_2.getText().equals("")|textField_2.getText().equals(courseEntry.getLocation()))
+			    		    JOptionPane.showMessageDialog(null, "位置与原来相同或为空");
+			    		else {
+			    			ClassRoom classroom = new ClassRoom(textField_2.getText());
+			    			courseEntry.setLocations(classroom);
+			    			JOptionPane.showMessageDialog(null, "更改成功！");
+			    		}
+			    		break here;
+			    	}
+			    }
+			}
+		});
+		btnNewButton_14.setBounds(6, 192, 116, 25);
+		panel_2.add(btnNewButton_14);
+		
 		//管理资源
 		JButton btnNewButton_10 = new JButton("\u7BA1\u7406\u8D44\u6E90");
 		btnNewButton_10.addActionListener(new ActionListener() {
@@ -470,7 +494,7 @@ public class CourseCalendarApp {
 				manageCourse.show(manageCourse);				
 			}
 		});
-		btnNewButton_10.setBounds(222, 193, 103, 23);
+		btnNewButton_10.setBounds(222, 203, 103, 23);
 		frame.getContentPane().add(btnNewButton_10);
 		
 		//管理位置
@@ -482,11 +506,11 @@ public class CourseCalendarApp {
 				addLocation.show();
 			}
 		});
-		btnNewButton_11.setBounds(335, 193, 117, 23);
+		btnNewButton_11.setBounds(335, 203, 117, 23);
 		frame.getContentPane().add(btnNewButton_11);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(0, 222, 458, 80);
+		scrollPane.setBounds(0, 235, 458, 80);
 		frame.getContentPane().add(scrollPane);
 		
 		//备注
@@ -511,7 +535,7 @@ public class CourseCalendarApp {
 				crec.checkResourceExclusiveConflict(pe);
 			}
 		});
-		btnNewButton_12.setBounds(4, 193, 93, 23);
+		btnNewButton_12.setBounds(4, 203, 93, 23);
 		frame.getContentPane().add(btnNewButton_12);
 		
 		//获取前序计划
@@ -524,13 +548,19 @@ public class CourseCalendarApp {
 				for(CourseEntry courseEntry:fc) {
 			    	if(courseEntry.getClassName().equals(course)&&courseEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
 			    		flag = 1;
-			    		FindPreEntryPerResource fpepr = new FindPreEntryPerResource();
+			    		PlanningEntryAPIs pea = new PlanningEntryAPIs();
 			    		int size = fc.getCourseEntry().size();
 			    		List<PlanningEntry> pe = new ArrayList<PlanningEntry>();
 			    		for(int i = 0;i<size;i++) {
 			    			pe.add(fc.getCourseEntry().get(i));
 			    		}
-			    		CourseEntry ce = (CourseEntry)fpepr.findPreEntryPerResource(textField_1.getText(),courseEntry,pe);
+			    		Set<Teacher> st = fc.getResources();
+			    		Resource re = null;
+			    		for(Teacher teacher:st) {
+			    			if(teacher.getIDNumber().equals(textField_1.getText()))
+			    				re = teacher;
+			    		}
+			    		CourseEntry ce = (CourseEntry)pea.findPreEntryPerResource(re,courseEntry,pe);
 			    		if(ce != null)
 			    		    JOptionPane.showMessageDialog(null, "课程："+ce.getClassName()+"\n起止时间："+ce.getStartAndEndTime().getStartTime()+"-"+ce.getStartAndEndTime().getEndTime()+"\n教室："+ce.getSe().getLocation().getLocationName()+"\n教师编号："+ce.getSsre().getResource().getIDNumber()+"\n状态："+ce.getState());
 			    		else
@@ -541,7 +571,7 @@ public class CourseCalendarApp {
 					JOptionPane.showMessageDialog(null, "输入的计划项不存在！");	
 			}
 		});
-		btnNewButton_13.setBounds(118, 193, 93, 23);
+		btnNewButton_13.setBounds(118, 203, 93, 23);
 		frame.getContentPane().add(btnNewButton_13);
 	}
 	
