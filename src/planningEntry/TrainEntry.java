@@ -71,7 +71,19 @@ public class TrainEntry extends CommonPlanningEntry implements TrainplanningEntr
 			JOptionPane.showMessageDialog(null, "中间站已走完，不可再中途停止！"+(msre.getResources().size()-2));
 		return false;
 	}
-
+	
+	@Override
+	public boolean Cancell() {
+		if(msre.getResources() != null) {
+			JOptionPane.showMessageDialog(null, "车厢已分配，不可取消！");
+			return false;
+		}
+		else {
+			super.Cancell();
+			return true;
+		}
+	}
+	
 	/**
 	 * 
 	 * @return 多个位置设置器

@@ -13,6 +13,7 @@ public class CourseEntry extends CommonPlanningEntry implements CoursePlanningEn
 	private String className;
 	private SingleLocationEntryImpl se;
 	private SingleSortedResourceEntryImpl<Teacher> ssre;
+	private List<Teacher> teachers = new ArrayList<Teacher>();
 	//AF:一个拥有课程名称，起止时间，发生地点，上课教室的课程
 	//RI:true
 	//Safety from rep exposure:所有属性均为私有
@@ -29,8 +30,10 @@ public class CourseEntry extends CommonPlanningEntry implements CoursePlanningEn
 		this.className = className;
 		this.se = se;
 		this.ssre = ssre;
-		if(this.ssre != null)
+		if(this.ssre != null) {
 			setCurrentState("a");
+			teachers.add(ssre.getResource());
+		}			
 	}
 	
 	@Override
@@ -61,6 +64,19 @@ public class CourseEntry extends CommonPlanningEntry implements CoursePlanningEn
 	}
 	
 	/**
+	 * 更换上课教师
+	 */
+	public boolean changeTeacher() {
+		for(int i = 0;i<teachers.size()-1;i++) {
+			if(teachers.get(i).equals(ssre.getResource())) {
+				ssre.setResource(teachers.get(i+1));
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	/**
 	 * 
 	 * @return 单个资源设置器
 	 */
@@ -83,6 +99,14 @@ public class CourseEntry extends CommonPlanningEntry implements CoursePlanningEn
 	public Teacher getTeacher(){
 		Teacher teacher = ssre.getResource();
 		return teacher;
+	}
+	
+	/**
+	 * 添加教师
+	 * @param teacher
+	 */
+	public void addTeacher(Teacher teacher) {
+		teachers.add(teacher);
 	}
 	
 	@Override

@@ -106,7 +106,7 @@ public class CourseCalendarApp {
 		
 		JPanel panel = new JPanel();
 		panel.setBorder(new TitledBorder(null, "JPanel title", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		panel.setBounds(-6, 8, 348, 185);
+		panel.setBounds(-6, 8, 348, 174);
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
@@ -361,6 +361,7 @@ public class CourseCalendarApp {
 			    	if(courseEntry.getClassName().equals(course)&&courseEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
 			    		if(courseEntry.getState().equals("Waiting")) {
 			    			courseEntry.setResource(tc);
+			    			courseEntry.addTeacher(tc);
 			    			JOptionPane.showMessageDialog(null, "成功！");
 			    			flag = 1;
 			    		}			    			
@@ -494,7 +495,7 @@ public class CourseCalendarApp {
 				manageCourse.show(manageCourse);				
 			}
 		});
-		btnNewButton_10.setBounds(222, 203, 103, 23);
+		btnNewButton_10.setBounds(222, 208, 103, 23);
 		frame.getContentPane().add(btnNewButton_10);
 		
 		//管理位置
@@ -506,7 +507,7 @@ public class CourseCalendarApp {
 				addLocation.show();
 			}
 		});
-		btnNewButton_11.setBounds(335, 203, 117, 23);
+		btnNewButton_11.setBounds(335, 208, 117, 23);
 		frame.getContentPane().add(btnNewButton_11);
 		
 		JScrollPane scrollPane = new JScrollPane();
@@ -535,7 +536,7 @@ public class CourseCalendarApp {
 				crec.checkResourceExclusiveConflict(pe);
 			}
 		});
-		btnNewButton_12.setBounds(4, 203, 93, 23);
+		btnNewButton_12.setBounds(4, 208, 93, 23);
 		frame.getContentPane().add(btnNewButton_12);
 		
 		//获取前序计划
@@ -571,8 +572,71 @@ public class CourseCalendarApp {
 					JOptionPane.showMessageDialog(null, "输入的计划项不存在！");	
 			}
 		});
-		btnNewButton_13.setBounds(118, 203, 93, 23);
+		btnNewButton_13.setBounds(118, 208, 93, 23);
 		frame.getContentPane().add(btnNewButton_13);
+		
+		JButton btnNewButton_15 = new JButton("\u8BFE\u7A0B\u6DFB\u52A0\u6559\u5E08");
+		btnNewButton_15.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String course = textField.getText();
+				String startTime = comboBox_1.getSelectedItem().toString()+"-"+comboBox_2.getSelectedItem().toString()+"-"+comboBox_3.getSelectedItem().toString()+" "+comboBox_4.getSelectedItem().toString()+":"+comboBox_5.getSelectedItem().toString();
+				int flag = 0;
+				if(textField_1.getText().equals("")) {
+					JOptionPane.showMessageDialog(null, "教师编号为空！");	
+				}
+				else {
+					here:
+					for(Teacher teacher:fc.getResources()) {
+						if(teacher.getIDNumber().equals(textField_1.getText())) {
+							for(CourseEntry courseEntry:fc) {
+						    	if(courseEntry.getClassName().equals(course)&&courseEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
+						    		flag = 1;
+						    		courseEntry.addTeacher(teacher);
+						    		JOptionPane.showMessageDialog(null, "添加成功！");
+						    		break here;
+						    	}
+							}
+							if(flag == 0)
+								JOptionPane.showMessageDialog(null, "课程不存在！");
+						}
+						else
+							JOptionPane.showMessageDialog(null, "教师不存在，请添加后再试！");
+					}
+					
+				}
+				
+			}
+		});
+		btnNewButton_15.setBounds(4, 177, 123, 23);
+		frame.getContentPane().add(btnNewButton_15);
+		
+		JButton btnNewButton_16 = new JButton("\u5207\u6362\u6559\u5E08");
+		btnNewButton_16.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String course = textField.getText();
+				String startTime = comboBox_1.getSelectedItem().toString()+"-"+comboBox_2.getSelectedItem().toString()+"-"+comboBox_3.getSelectedItem().toString()+" "+comboBox_4.getSelectedItem().toString()+":"+comboBox_5.getSelectedItem().toString();
+				int flag = 0;
+				here:
+				for(CourseEntry courseEntry:fc) {
+			    	if(courseEntry.getClassName().equals(course)&&courseEntry.getStartAndEndTime().getStartTime().equals(startTime)) {
+			    		flag = 1;
+			    		String oldName = courseEntry.getSsre().getResource().getName();
+			    		if(courseEntry.changeTeacher()&courseEntry.getState().equals("Running")) {
+			    			JOptionPane.showMessageDialog(null, "切换成功！前一个上课教师："+oldName+"  当前上课教师："+courseEntry.getSsre().getResource().getName());
+			    			break here;
+			    		}
+			    		else {
+			    			JOptionPane.showMessageDialog(null, "切换失败，可能原因：没有老师可切换或课程未开始！");
+			    			break here;
+			    		}
+			    	}
+				}
+				if(flag == 0)
+					JOptionPane.showMessageDialog(null, "课程不存在！");
+			}
+		});
+		btnNewButton_16.setBounds(170, 177, 123, 23);
+		frame.getContentPane().add(btnNewButton_16);
 	}
 	
 	//读取给定文件，获取计划项集合

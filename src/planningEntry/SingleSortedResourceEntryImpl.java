@@ -9,8 +9,7 @@ public class SingleSortedResourceEntryImpl<L> implements SingleSortedResourceEnt
 	@Override
 	public void setResource(L resource) {
 		// TODO Auto-generated method stub
-		if(this.resource == null)
-		    this.resource = resource;
+		this.resource = resource;
 	}
 	
 	/**

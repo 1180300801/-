@@ -3,6 +3,7 @@ package planningEntry;
 import java.util.ArrayList;
 import java.util.List;
 
+import location.Airport;
 import location.Location;
 import resource.Flight;
 import resource.Resource;
@@ -13,6 +14,8 @@ public class FlightEntry extends CommonPlanningEntry implements FlightPlanningEn
 	private String Flightnumber;
 	private TwoLocationEntryImpl te;
 	private SingleSortedResourceEntryImpl<Flight> se;
+	private Airport interAirport;
+	private BlockableEntryImpl be;//中停
 	//AF:一个拥有航班号，起止时间，起止地点，使用飞机的航班
 	//RI:true
 	//Safety from rep exposure:所有属性均为私有
@@ -29,6 +32,8 @@ public class FlightEntry extends CommonPlanningEntry implements FlightPlanningEn
 		this.Flightnumber = Flightnumber;
 		this.te = te;
 		this.se = se;
+		this.be = new BlockableEntryImpl();
+		interAirport = new Airport("havaNo");
 		if(this.se != null)
 			setCurrentState("a");
 	}
@@ -108,5 +113,24 @@ public class FlightEntry extends CommonPlanningEntry implements FlightPlanningEn
 	public int hashCode() {
 		//在String类型中已经重写了hashCode方法，这里直接调用就可以了
 		return this.Flightnumber.hashCode();
+	}
+
+	@Override
+	public boolean block(String time) {
+		// TODO Auto-generated method stub
+		if(interAirport.equals(new Airport("havaNo"))|be.getBlockNum()>0)
+			return false;
+		else {
+			be.block(time);
+			return setCurrentState("b");
+		}
+	}
+
+	public Airport getInterAirport() {
+		return interAirport;
+	}
+
+	public void setInterAirport(Airport interAirport) {
+		this.interAirport = interAirport;
 	}
 }
