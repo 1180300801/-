@@ -3,7 +3,11 @@ package location;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * 测试了Airport中的重写的equals方法，其它简单的getter方法就没有再测试了
+ * @author Administrator
+ *
+ */
 public class AirportTest {
 
 	/**

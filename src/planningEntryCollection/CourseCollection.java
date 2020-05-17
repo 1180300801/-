@@ -9,9 +9,6 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import javax.swing.JOptionPane;
 
 import entryFactory.CourseEntryFactory;
 import location.Location;
@@ -50,24 +47,16 @@ public class CourseCollection implements Iterable<CourseEntry>,Collection{
     		}
     		//文件中每12行代表一格计划项
 			if(i == 12) {
-				//判断格式是否符合要求
-    			if(check(S)){
-    				//使用工厂方法构造计划项
-    				CourseEntry courseEntry = cef.getEntry(S);
-    				if(courseEntry == null)
-    					break here;
-    				
-    				teachers.add(courseEntry.getSsre().getResource());
-    				classRooms.add(courseEntry.getSe().getLocation());
-    				courseCollection.add(courseEntry);
-    				S = "";
-    				i = 0;
-    			}
-    			else {
-    				JOptionPane.showMessageDialog(null, "格式不匹配，请选择其它文件");
-    				System.out.println(S);
-    				break here;
-    			}
+				//使用工厂方法构造计划项
+				CourseEntry courseEntry = cef.getEntry(S);
+				if(courseEntry == null)
+					break here;
+				
+				teachers.add(courseEntry.getSsre().getResource());
+				classRooms.add(courseEntry.getSe().getLocation());
+				courseCollection.add(courseEntry);
+				S = "";
+				i = 0;
     		}
     	}    
     	br.close();
@@ -91,26 +80,6 @@ public class CourseCollection implements Iterable<CourseEntry>,Collection{
 		return courseCollection.size();
 	}
 	
-	
-	/**
-	 * 检查输入的航班信息字符串是否符合要求
-	 * @param S
-	 * @return 合格时返回true，否则返回false
-	 */
-	 private boolean check(String S){
-		//检查时间格式是否正确
-	    String str = "((\\d{2}(([02468][048])|([13579][26]))[\\-\\/\\s]?((((0?[13578])|(1[02]))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])))))|(\\d{2}(([02468][1235679])|([13579][01345789]))[\\-\\/\\s]?((((0?[13578])|(1[02]))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-\\/\\s]?((0?[1-9])|(1[0-9])|(2[0-8]))))))(\\s((([0-1][0-9])|(2?[0-3]))\\:([0-5]?[0-9])((\\s)|)))";
-	   	Pattern pattern1 = Pattern.compile(str);
-	   	//检查总体格式是否正确
-	   	Pattern pattern2 = Pattern.compile("((Class:)(2020-[01][0-9]-[0123][0-9]),([\u4e00-\u9fa5]+)\n\\{\n(ClassRoom):([\u4e00-\u9fa5][\u4e00-\u9fa5][0-9]+)\n(DepatureTime):(2020-[01][0-9]-[0123][0-9])(\\s[012][0-9]:[0-6][0-9])\n(ArrivalTime):(2020-[01][0-9]-[0123][0-9])(\\s[012][0-9]:[0-6][0-9])\n(Teacher:)(\\d{3})\n\\{\n(Name:)([\u4e00-\u9fa5]+)\n(Sex:)([\u4e00-\u9fa5])\n(Title:)([\u4e00-\u9fa5]+)\n\\}\n\\}\n)");
-	   	Matcher mc = pattern1.matcher(S);
-	   	if(mc.find()) {
-    		mc = pattern2.matcher(S);
-	    	if(mc.find())
-	    		return true;
-	   	}
-	   	return false;
-	}
 	
 	@Override
 	public Object[][] getMessage() {
